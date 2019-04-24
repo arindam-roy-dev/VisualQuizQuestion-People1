@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Food?",
+"answers":[
+	"Sandwich",
+	"Hamburger",
+	"Wrap",
+	"Swiss Roll"
+	],
+"correctAnswer":4,
+"hints":[
+	"It is a type of sponge cake roll filled with whipped cream, jam, or icing."
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"A Swiss roll, jelly roll, roll cake, or cream roll is a type of sponge cake roll filled with whipped cream, jam, or icing. The origins of the term are unclear. In spite of the name \"Swiss roll\", the cake is believed to have originated elsewhere in Central Europe, likely Austria. It appears to have been invented in the nineteenth century."
+}

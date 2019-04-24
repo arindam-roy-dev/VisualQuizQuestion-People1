@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Food?",
+"answers":[
+	"Croissant",
+	"Loaf",
+	"Bun",
+	"Swiss Roll"
+	],
+"correctAnswer":1,
+"hints":[
+	"Place of origin - Austria, France",
+	"Named for it's shape"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":0
+	},
+"aboutAnswer":"A croissant is a buttery, flaky, viennoiserie pastry of Austrian origin, named for its historical crescent shape. Croissants and other viennoiserie are made of a layered yeast-leavened dough. The dough is layered with butter, rolled and folded several times in succession, then rolled into a sheet, in a technique called laminating. The process results in a layered, flaky texture, similar to a puff pastry. Croissants are a common part of a continental breakfast in France."
+}
