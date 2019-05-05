@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the main ingredient of Chocolate?",
+"answers":[
+	"Milk and Synthetic Color",
+	"Brown Coconut",
+	"Cacao",
+	"Jackfruit"
+	],
+"correctAnswer":3,
+"hints":[
+	"It's Seed of a Fruit",
+	"Available at deep tropical regions of the Americas"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Theobroma cacao, also called the cacao tree and the cocoa tree, is a small (4–8 m) (13–26 ft) tall evergreen tree native to the deep tropical regions of the Americas. Its seeds, cocoa beans, are used to make chocolate liquor, cocoa solids, cocoa butter and chocolate.\nThe fruit, called a cacao pod, is ovoid, 15–30 cm (5.9–11.8 in) long and 8–10 cm (3.1–3.9 in) wide, ripening yellow to orange, and weighs about 500 g (1.1 lb) when ripe. The pod contains 20 to 60 seeds, usually called \"beans\", embedded in a white pulp. The seeds are the main ingredient of chocolate."
+}
