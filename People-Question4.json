@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Food?",
+"answers":[
+	"Sushi",
+	"Dim Sum",
+	"Hamburger",
+	"Sausage Platter"
+	],
+"correctAnswer":1,
+"hints":[
+	"Prepared vinegared rice with some sugar and salt, seafood, vegetables, tropical fruits",
+	"Japanese dish"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Sushi is a Japanese dish of prepared vinegared rice, usually with some sugar and salt, accompanying a variety of ingredients, such as seafood, vegetables, and occasionally tropical fruits.\nStyles of sushi and its presentation vary widely, but the one key ingredient is \"sushi rice\", also referred to as shari, or sumeshi. The term sushi is no longer used in its original context; it literally means \"sour-tasting\".\nSushi is traditionally made with medium-grain white rice, though it can be prepared with brown rice or short-grain rice. It is very often prepared with seafood, such as squid, eel, yellowtail, salmon, tuna or imitation crab meat. Many types of sushi are vegetarian. It is often served with pickled ginger (gari), wasabi, and soy sauce. Daikon radish or pickled daikon (takuan) are popular garnishes for the dish."
+}

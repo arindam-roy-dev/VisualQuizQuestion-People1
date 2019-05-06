@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Who is wrote the novel \"Alice\'s Adventures in Wonderland\"?",
+"answers":[
+	"J. K. Rowling",
+	"Lewis Carroll",
+	"C. S. Lewis",
+	"Dan Brown"
+	],
+"correctAnswer":2,
+"hints":[
+	"Author's pseudonym was Charles Lutwidge Dodgson",
+	"Published in 1865"
+	],
+"earn":{
+	"hints":3,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Alice\'s Adventures in Wonderland (commonly shortened to Alice in Wonderland) is an 1865 novel written by English author Charles Lutwidge Dodgson under the pseudonym Lewis Carroll.\nIt tells of a young girl named Alice falling through a rabbit hole into a fantasy world populated by peculiar, anthropomorphic creatures. The tale plays with logic, giving the story lasting popularity with adults as well as with children.\nIt is considered to be one of the best examples of the literary nonsense genre. Its narrative course, structure, characters, and imagery have been enormously influential in both popular culture and literature, especially in the fantasy genre."
+}
