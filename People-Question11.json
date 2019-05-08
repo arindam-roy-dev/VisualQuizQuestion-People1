@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this People?",
+"answers":[
+	"Surma, Ethiopia",
+	"Peruvian, Peru",
+	"Sentinelese, India",
+	"Huli, Papua New Guinea"
+	],
+"correctAnswer":4,
+"hints":[
+	"Country belongs to Oceania",
+	"Country\'s capital is Port Moresby"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The Huli are an indigenous people who live in the Hela Province of Papua New Guinea.\nThey speak primarily Huli and Tok Pisin; many also speak some of the surrounding languages, and some also speak English.\nThey are one of the largest cultural groups in Papua New Guinea, numbering over 250,000 people (based on the population of Hela of 249,449 at the time of the 2011 national census).\nThere is every indication the Huli have lived in their region for many thousands of years and recount lengthy oral histories relating to individuals and their clans. They were extensive travellers (predominantly for trade) in both the highlands and lowlands surrounding their homeland, particularly to the south."
+}

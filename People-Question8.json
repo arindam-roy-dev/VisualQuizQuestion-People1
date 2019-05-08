@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Traditional Dress?",
+"answers":[
+	"Kilts, Scotland",
+	"Tracht, Southern Germany and Austria",
+	"Sámi clothing, Lapland",
+	"Flamenco dresses, Spain"
+	],
+"correctAnswer":1,
+"hints":[
+	"Found in Europe",
+	"Traditional dress of Gaelic men and boys"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"A kilt is a type of knee-length non-bifurcated skirt with pleats at the back, originating in the traditional dress of Gaelic men and boys in the Scottish Highlands.\nIt is first recorded in the 16th century as the great kilt, a full-length garment whose upper half could be worn as a cloak. The small kilt or modern kilt emerged in the 18th century, and is essentially the bottom half of the great kilt. Since the 19th century, it has become associated with the wider culture of Scotland, and more broadly with Gaelic or Celtic heritage.\nIt is most often made of woollen cloth in a tartan pattern."
+}

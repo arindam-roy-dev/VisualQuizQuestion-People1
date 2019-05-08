@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"Which continent is home of maximum number of languages?",
+"answers":[
+	"Africa",
+	"Europe",
+	"South America",
+	"Asia"
+	],
+"correctAnswer":1,
+"hints":[
+	"Europe has only about 300 languages out of world\'s 6,000 languages",
+	"Some of the Languages are Somali, Berber, Amharic, Oromo, Igbo, Swahili, Hausa, Manding, Fulani, Yoruba",
+	"Nigeria alone has over 500 languages"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The African continent is home to one third of the world\'s 6,000 languages, but less than one seventh of the world\'s population.\nThe total number of languages natively spoken in Africa is variously estimated (depending on the delineation of language vs. dialect) at between 1,250 and 2,100, and by some counts at  over 3,000.\nNigeria alone has over 500 languages (according to the count of SIL Ethnologue), one of the greatest concentrations of linguistic diversity in the world.\nAround a hundred languages are widely used for inter-ethnic communication. Arabic, Somali, Berber, Amharic, Oromo, Igbo, Swahili, Hausa, Manding, Fulani and Yoruba are spoken by tens of millions of people."
+}

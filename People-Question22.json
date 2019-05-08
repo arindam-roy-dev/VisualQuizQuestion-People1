@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Traditional Dress?",
+"answers":[
+	"The ten-gallon Stetson",
+	"Changing the Guard",
+	"Flamenco dresses",
+	"Coiffe"
+	],
+"correctAnswer":3,
+"hints":[
+	"Traditional Dress in Spain",
+	"Used by the traditional dancers"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Flamenco is the dress traditionally worn by women at Ferias (festivals) in Andalusia, Spain.\nTraditionally, the outfit is completed with a shawl (mantón de Manila) worn over the shoulders. The traditional dancer will also wear her hair in a bun adorned with flowers, and perhaps a decorative hair comb.\nThe outfit originated in the late 19th and early 20th centuries when women vendors dressed in modest calico gowns trimmed with ruffles came to the fairs along with livestock traders."
+}

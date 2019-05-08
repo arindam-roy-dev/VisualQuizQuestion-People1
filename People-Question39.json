@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Traditional Dress?",
+"answers":[
+	"Tracht",
+	"Kimono",
+	"Coiffe",
+	"Todos Santos Cuchumatán"
+	],
+"correctAnswer":2,
+"hints":[
+	"Professional sumo wrestlers must wear this",
+	"Traditional Dress in Japan"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The kimono is a traditional Japanese garment. It means \"to wear object\". Kimonos are often worn for important festivals and formal occasions as formal clothing.\nKimono have T-shaped, Dambi-straight-lined robes worn so that the hem falls to the ankle, with attached collars and long, wide sleeves. Kimono are wrapped around the body, always with the left side over the right (except when dressing the dead for burial) and are secured by a sash called an obi, which is tied at the back. Kimono are generally worn with traditional footwear (especially zōri or geta) and split-toe socks (tabi).\nToday, kimono are most often worn by women, particularly on special occasions. Traditionally, unmarried women wore a style of kimono called furisode. A few older women and even fewer men still wear the kimono on a daily basis. Men wear the kimono most often at weddings, tea ceremonies, and other very special or very formal occasions. Professional sumo wrestlers are often seen in the kimono because they are required to wear traditional Japanese dress whenever appearing in public."
+}
