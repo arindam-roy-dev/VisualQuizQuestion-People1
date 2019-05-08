@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of the Movie?",
+"answers":[
+	"Jurassic Park",
+	"Jurassic World",
+	"The Lost World",
+	"Jurassic World 3"
+	],
+"correctAnswer":1,
+"hints":[
+	"American thriller film",
+	"Directed by Steven Spielberg",
+	"This is first film of Jurassic Park sequel"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Jurassic Park is a 1993 American science fiction adventure film directed by Steven Spielberg and produced by Kathleen Kennedy and Gerald R. Molen.\nThe first installment in the Jurassic Park franchise, it is based on the 1990 novel of the same name by Michael Crichton and a screenplay written by Crichton and David Koepp.\nThe film won more than twenty awards, including three Academy Awards for its technical achievements in visual effects and sound design. Jurassic Park is considered a landmark in the development of computer-generated imagery and animatronic visual effects and was followed by four commercially successful sequels."
+}

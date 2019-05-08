@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Movie?",
+"answers":[
+	"Jaws",
+	"Shark Tales",
+	"Deep Blue Sea",
+	"Mako: The Jaws of Death"
+	],
+"correctAnswer":2,
+"hints":[
+	"American thriller film",
+	"Directed by Steven Spielberg"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Jaws is a 1975 American thriller film directed by Steven Spielberg and based on Peter Benchley's 1974 novel of the same name.\nConsidered one of the greatest films ever made, Jaws was the prototypical summer blockbuster, with its release regarded as a watershed moment in motion picture history, and it won several awards for its music and editing. It became the highest-grossing film of all time until the release of Star Wars in 1977.\nBoth films were pivotal in establishing the modern Hollywood business model, which revolves around high box-office returns from action and adventure pictures with simple high-concept premises released during the summer in thousands of theaters and heavily advertised."
+}
