@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Who is the Artist of famous painting \"Café Terrace at Night\"?",
+"answers":[
+	"Pablo Picasso",
+	"Vincent van Gogh",
+	"Sandro Botticelli",
+	"Leonardo da Vinci"
+	],
+"correctAnswer":2,
+"hints":[
+	"Dutch Artist",
+	"\"The Starry Night\" is another painting by this Artist"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Café Terrace at Night is an 1888 oil painting by the Dutch artist Vincent van Gogh. It is also known as The Cafe Terrace on the Place du Forum, and, when first exhibited in 1891, was entitled Coffeehouse, in the evening.\nVan Gogh painted Café Terrace at Night in Arles, France, in mid-September 1888. The painting is not signed, but described and mentioned by the artist in three letters.\nThe painting is currently at the Kröller-Müller Museum in Otterlo, Netherlands."
+}

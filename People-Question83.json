@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"Who is the Artist of famous painting \"The Third of May 1808\"?",
+"answers":[
+	"Pablo Picasso",
+	"Francisco Goya",
+	"Leonardo da Vinci",
+	"Vincent van Gogh"
+	],
+"correctAnswer":4,
+"hints":[
+	"Depicts Spanish resistance to Napoleon\'s armies during the occupation of 1808 in the Peninsular War.",
+	"Spanish Artist",
+	"\"The Second of May 1808\" is another painting by this Artist"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":0
+	},
+"aboutAnswer":"The Third of May 1808 (also known as El tres de mayo de 1808 en Madrid) is a painting completed in 1814 by the Spanish painter Francisco Goya. It is now in the Museo del Prado, Madrid.\nIn the work, Goya sought to commemorate Spanish resistance to Napoleon\'s armies during the occupation of 1808 in the Peninsular War. Along with its companion piece of the same size, The Second of May 1808 (or The Charge of the Mamelukes), it was commissioned by the provisional government of Spain at Goya's suggestion."
+}

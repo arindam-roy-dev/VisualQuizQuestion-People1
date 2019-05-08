@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"Who is the Artist of famous painting \"The Second of May 1808\"?",
+"answers":[
+	"Pablo Picasso",
+	"Vincent van Gogh",
+	"Francisco Goya",
+	"Leonardo da Vinci"
+	],
+"correctAnswer":3,
+"hints":[
+	"Depicts people's rebellions against the French occupation of Spain that sparked the Peninsular War",
+	"Spanish Artist",
+	"\"The Third of May 1808\" is another painting by this Artist"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The Second of May 1808, also known as The Charge of the Mamelukes, is a painting by the Spanish painter Francisco Goya.\nIt is a companion to the painting The Third of May 1808 and is set in the Calle de Alcalá near Puerta del Sol, Madrid, during the Dos de Mayo Uprising.\nIt depicts one of the many people's rebellions against the French occupation of Spain that sparked the Peninsular War.\nBoth paintings were completed in a two-month time frame in 1814. Today they are displayed in Madrid's Museo del Prado."
+}

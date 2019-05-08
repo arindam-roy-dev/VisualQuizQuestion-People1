@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Who is the Artist of famous painting \"The Starry Night\"?",
+"answers":[
+	"Vincent van Gogh",
+	"Leonardo da Vinci",
+	"Pablo Picasso",
+	"Sandro Botticelli"
+	],
+"correctAnswer":1,
+"hints":[
+	"Dutch Artist",
+	"\"The Potato Eaters\" is another painting by this Artist"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"The Starry Night is an oil on canvas by the Dutch post-impressionist painter Vincent van Gogh.\nPainted in June 1889, it describes the view from the east-facing window of his asylum room at Saint-Rémy-de-Provence, just before sunrise, with the addition of an ideal village.\nIt has been in the permanent collection of the Museum of Modern Art in New York City since 1941"
+}

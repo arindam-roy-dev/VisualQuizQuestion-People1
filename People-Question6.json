@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Who is the Artist of famous painting \"The Last Supper\"?",
+"answers":[
+	"Lisa Gherardini",
+	"Leonardo da Vinci",
+	"Johannes Vermeer",
+	"Sandro Botticelli"
+	],
+"correctAnswer":2,
+"hints":[
+	"Italian Artist",
+	"\"Mona Lisa\" is another painting by this Artist"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"The Last Supper is a late 15th-century mural painting by Italian artist Leonardo da Vinci housed by the refectory of the Convent of Santa Maria delle Grazie in Milan, Italy. It is one of the western world\'s most recognizable paintings.\nThe work is presumed to have been started around 1495–96 and was commissioned as part of a plan of renovations to the church and its convent buildings by Leonardo's patron Ludovico Sforza, Duke of Milan.\nThe painting represents the scene of the Last Supper of Jesus with his apostles, as it is told in the Gospel of John. Leonardo has depicted the consternation that occurred among the Twelve Apostles when Jesus announced that one of them would betray him."
+}
