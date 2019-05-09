@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"What type of language is Spanish?",
+"answers":[
+	"Balto-Slavic",
+	"Germanic",
+	"Romance",
+	"Celtic"
+	],
+"correctAnswer":3,
+"hints":[
+	"Evolved from Vulgar Latin"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Spanish is a Romance language that originated in the Castile region of Spain and today has hundreds of millions of native speakers in the Americas and Spain.\nThe Romance languages are the modern languages that evolved from Vulgar Latin between the third and eighth centuries and that form a subgroup of the Italic languages within the Indo-European language family.\nThe five most widely spoken Romance languages by number of native speakers are Spanish (470 million), Portuguese (250 million), French (150 million), Italian (90 million),[4] and Romanian (25 million)."
+}

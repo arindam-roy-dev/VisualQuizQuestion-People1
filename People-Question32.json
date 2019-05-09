@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"Hotel California is studio album by which Music Band?",
+"answers":[
+	"Guns N\' Roses",
+	"The Beatles",
+	"Eagles",
+	"Pink Floyd"
+	],
+"correctAnswer":3,
+"hints":[
+	"American music Band formed in Los Angeles",
+	"Another famous song is New Kid in Town",
+	"Glenn Frey, Don Henley, Bernie Leadon, Randy Meisner are Members"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":2
+	},
+"aboutAnswer":"The Eagles are an American rock band formed in Los Angeles in 1971.\nThe founding members were Glenn Frey (guitars, vocals), Don Henley (drums, vocals), Bernie Leadon (guitars, vocals) and Randy Meisner (bass guitar, vocals). With five number-one singles, six Grammy Awards, five American Music Awards, and six number-one albums, the Eagles were one of the most successful musical acts of the 1970s.\nAt the end of the 20th century, two of their albums, Their Greatest Hits (1971–1975) and Hotel California, were ranked among the 20 best-selling albums in the United States according to the Recording Industry Association of America. By 2006, both albums were among the top three best-selling albums in the United States. Hotel California is ranked 37th in Rolling Stone\'s list of \"The 500 Greatest Albums of All Time\" and the band was ranked number 75 on the magazine\'s 2004 list of the 100 Greatest Artists of All Time."
+}

@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Spanish is Official Language for Which Country?",
+"answers":[
+	"Bolivia",
+	"Mexico",
+	"France",
+	"Ivory Coast"
+	],
+"correctAnswer":1,
+"hints":[
+	"An European Country",
+	"French is the Official Language for France and Ivory Coast"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"For Bolivia, Spanish is the official and predominant language, although 36 indigenous languages also have official status, of which the most commonly spoken are Guarani, Aymara and Quechua languages.\nSpanish is national language spoken by the vast majority of the population. But, It\'s not Official language at federal level.\nFrench is the Official Language for France and Ivory Coast."
+}
