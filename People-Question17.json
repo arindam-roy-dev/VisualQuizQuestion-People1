@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"Which is the International Women\'s Day?",
+"answers":[
+	"8 March",
+	"25 November",
+	"15 October",
+	"11 February"
+	],
+"correctAnswer":1,
+"hints":[
+	"In the First Half of Calendar"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"After the Socialist Party of America organized a Women\'s Day on February 28, 1909, in New York. At the 1910 International Socialist Woman\'s Conference suggested German revolutionary Clara Zetkin proposed that 8 March be honored as a day annually in memory of working women.\nThe day has been celebrated as International Women\'s Day or International Working Women\'s Day ever since."
+}

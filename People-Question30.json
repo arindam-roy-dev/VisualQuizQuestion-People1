@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"Which is the World Tourism Day?",
+"answers":[
+	"28 September",
+	"21 September",
+	"27 September",
+	"11 February"
+	],
+"correctAnswer":3,
+"hints":[
+	"One Day in September"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Since 1980, the United Nations World Tourism Organization has celebrated World Tourism Day as international observances on September 27.\nThis date was chosen as on that day in 1970, the Statutes of the UNWTO were adopted. The adoption of these Statutes is considered a milestone in global tourism.\nThe purpose of this day is to raise awareness on the role of tourism within the international community and to demonstrate how it affects social, cultural, political and economic values worldwide."
+}

@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is this Canadian cuisine?",
+"answers":[
+	"Poutine",
+	"Tacos",
+	"Marzipan",
+	"French toast"
+	],
+"correctAnswer":1,
+"hints":[
+	"It includes french fries and cheese curds topped with a brown gravy",
+	"It has long been associated with Quebec cuisine"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Poutine is a dish that includes french fries and cheese curds topped with a brown gravy. It originated in the Canadian province of Quebec and emerged in the late 1950s in the Centre-du-Québec area.\nFor many years, it was perceived negatively and mocked, and even used by some to stigmatize Quebec society.\nPoutine later became celebrated as a symbol of Québécois cultural pride. Its rise in prominence led to its popularity outside the province, especially in Ontario and in the Northeastern United States."
+}

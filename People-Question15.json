@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the most spoken Language in the world?",
+"answers":[
+	"English",
+	"Spanish",
+	"Mandarin (Chinese)",
+	"Hindi (India)"
+	],
+"correctAnswer":3,
+"hints":[
+	"Asian Language",
+	"Popopular in the World\'s most populous country"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"With almost 1.2 billion native speakers, the most popular language in the world is Mandarin (Chinese). In fact, one in six people in the world speak Chinese.\nAbout 983 million speakers speak English.\nThere are about 295 million Hindi speakers and 527 million Spanish speakers."
+}

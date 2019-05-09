@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is this Arabic Food?",
+"answers":[
+	"Goi cuon",
+	"Hummus",
+	"Pho",
+	"Fajitas"
+	],
+"correctAnswer":2,
+"hints":[
+	"Levantine dip or spread made from cooked, mashed chickpeas or other beans, blended with tahini, olive oil, lemon juice, salt, and garlic",
+	"It is popular in the Middle East and Mediterranean"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Hummus is a Levantine dip or spread made from cooked, mashed chickpeas or other beans, blended with tahini, olive oil, lemon juice, salt, and garlic.\n\"Hummus\" comes from the Arabic word meaning \"chickpeas\", and the complete name of the prepared spread in Arabic is ḥummuṣ bi ṭaḥīna which means \"chickpeas with tahini\".\nIt is popular in the Middle East and Mediterranean, as well as in Middle Eastern cuisine around the globe."
+}

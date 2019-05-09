@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is this Italian Food?",
+"answers":[
+	"Poke",
+	"Lasagne",
+	"Croissant",
+	"Arepas"
+	],
+"correctAnswer":2,
+"hints":[
+	"Possibly one of the oldest types of Pasta",
+	"Made with stacked layers of pasta alternated with sauces"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Lasagne are a type of wide, flat pasta, possibly one of the oldest types of pasta.\nLasagne, or the singular lasagna, commonly refers to a culinary dish made with stacked layers of pasta alternated with sauces and ingredients such as meats, vegetables and cheese, and sometimes topped with melted grated cheese.\nTypically, the cooked pasta is assembled with the other ingredients and then baked in an oven. The resulting lasagne casserole is cut into single-serving square portions."
+}

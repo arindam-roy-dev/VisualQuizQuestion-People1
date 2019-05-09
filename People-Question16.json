@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Which Country is the leading orange producer in the world?",
+"answers":[
+	"India",
+	"Brazil",
+	"China",
+	"United States"
+	],
+"correctAnswer":2,
+"hints":[
+	"South American Country",
+	"Produces more than what United States produces"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Brazil is the leading orange producer in the world producing about 30% of the world’s output.\n94% of the country’s orange production is concentrated in the state of Sao Paulo. Brazil is also the leading exporter of orange fruits and orange juice."
+}
