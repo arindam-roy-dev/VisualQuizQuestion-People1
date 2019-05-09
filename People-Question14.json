@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"The word “Ketchup” comes from \"kichap\", which is in what language?",
+"answers":[
+	"Japanese",
+	"Mandarin",
+	"Malay",
+	"Spanish"
+	],
+"correctAnswer":3,
+"hints":[
+	"Asian Language",
+	"The word itself derives from the Chinese"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Ketchup may have entered the English language from the Malay word kicap (pron. \"kichap\", sometimes spelled kecap or ketjap). Originally meaning \"fish sauce\", the word itself derives from the Chinese terms above.\nIn Indonesian cuisine, which is similar to Malay, the term kecap refers to fermented savory sauces. Two main types are well known in their cuisine: kecap asin which translates to 'salty kecap' in Indonesian (a salty soy sauce) and kecap manis or \"sweet kecap\" in Indonesian.\nKecap manis is a sweet soy sauce that is a mixture of soy sauce with brown sugar, molasses, garlic, ginger, anise, coriander and a bay leaf reduced over medium heat until rather syrupy. A third type, kecap ikan, meaning \"fish kecap\" is fish sauce similar to the Thai nam pla or the Philippine patis."
+}
