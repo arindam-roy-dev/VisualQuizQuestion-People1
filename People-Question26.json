@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Food?",
+"answers":[
+	"Haggis",
+	"Tuna Eyeballs",
+	"Meat pie",
+	"Surstromming"
+	],
+"correctAnswer":3,
+"hints":[
+	"Filling of meat and often other savory ingredients",
+	"Kind of a Pie"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"A meat pie is a pie with a filling of meat and often other savory ingredients. They are popular in the United Kingdom, Australia, Ghana, Nigeria, Europe, New Zealand, Canada, Zimbabwe and South Africa.\nMeat pie is found in the Neolithic Period, around 9500 BC. The ancient Egyptians\' diet featured basic pies made from oat, wheat, rye, and barley, and filled with honey and baked over hot coals.\nThe Greeks used a flour-water paste resembling pie pastry, and filled it with meat.\nIn Northern Europe, cooks created the pastry using fats like lard and butter to make stiff dough to hold an upright pie."
+}

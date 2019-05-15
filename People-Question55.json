@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Which Company produces world\'s famous Perfume \"Poison\"?",
+"answers":[
+	"Chanel",
+	"Poison SE",
+	"Kenzo",
+	"Dior"
+	],
+"correctAnswer":4,
+"hints":[
+	"French luxury goods company",
+	"Perfume \"Poison\" was launched in 1985"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Christian Dior SE, commonly known as Dior, is a French luxury goods company controlled and chaired by French businessman Bernard Arnault, who also heads LVMH, the world\'s largest luxury group.\nThe company was founded in 1946 by designer Christian Dior. It currently designs and retails leather goods, fashion accessories, footwear, jewelry, timepieces, fragrance, makeup, and skin care products, while also maintaining its tradition as a creator of haute-couture under the Christian Dior Couture division. The Christian Dior label remains largely for women\'s offerings, although the company also operates the Dior Homme division for men and the baby Dior label for children\'s wear.\nThe Dior perfume \"Poison\" was launched in 1985."
+}

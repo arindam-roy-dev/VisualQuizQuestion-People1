@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Which Company produces world\'s famous perfume \"Chanel No. 5\"?",
+"answers":[
+	"Chanel S.A.",
+	"Lancôme",
+	"Kenzo",
+	"Dior"
+	],
+"correctAnswer":1,
+"hints":[
+	"French privately held company",
+	"Chanel No. 5 was the first perfume launched"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Chanel S.A. is a French privately held company owned by Alain Wertheimer and Gérard Wertheimer, grandsons of Pierre Wertheimer, who was an early business partner of the couturière Coco Chanel.\nChanel S.A. is a high fashion house that specializes in haute couture and ready-to-wear clothes, luxury goods, and fashion accessories.\nChanel No. 5 was the first perfume launched by French couturier Gabrielle \"Coco\" Chanel. The scent formula for the fragrance was compounded by French-Russian chemist and perfumer Ernest Beaux. "
+}
