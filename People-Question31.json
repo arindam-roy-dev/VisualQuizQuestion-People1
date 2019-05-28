@@ -1,0 +1,22 @@
+{
+"app":"Visual Quiz",
+"question":"Which tribal group living in Finland?",
+"answers":[
+	"Sami",
+	"Koryaks",
+	"Guicas",
+	"Maoris"
+	],
+"correctAnswer":1,
+"hints":[
+	"Historically been known in English as Lapps or Laplanders but the terms are considered derogatory now",
+	"Their languages and are classified as a branch of the Uralic language family",
+	"Koryaks (or Koriak) are an indigenous people of the Russian Far East",
+	"The Maori are the indigenous Polynesian people of New Zealand"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The Sami people (also spelled Saami) are a Finno-Ugric people inhabiting Sapmi, which today encompasses large northern parts of Norway and Sweden, northern parts of Finland, and the Murmansk Oblast of Russia.\nThe Sami have historically been known in English as Lapps or Laplanders but the terms are considered derogatory now. Sami ancestral lands are not well-defined. Their traditional languages are the Sami languages and are classified as a branch of the Uralic language family.\nTraditionally, the Sami have pursued a variety of livelihoods, including coastal fishing, fur trapping, and sheep herding. Their best-known means of livelihood is semi-nomadic reindeer herding.\nCurrently about 10% of the Sami are connected to reindeer herding, providing them with meat, fur, and transportation. 2,800 Sami people are actively involved in reindeer herding on a full-time basis. For traditional, environmental, cultural, and political reasons, reindeer herding is legally reserved for only Sami people in some regions of the Nordic countries."
+}
