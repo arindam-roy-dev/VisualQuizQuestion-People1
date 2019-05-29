@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"The Chinese Mid-Autumn Festival is also known as what?",
+"answers":[
+	"Chinese New Year",
+	"Festival of Sun",
+	"Festival of Young People",
+	"Harvest Moon Festival"
+	],
+"correctAnswer":4,
+"hints":[
+	"Genkan are found in even small apartments",
+	"Bare feet are acceptable when visiting a close friend, but not otherwise"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The Mid-Autumn Festival is a harvest festival celebrated notably by the Chinese,Vietnamese and Korean people.The festival is held on the 15th day of the 8th month of the lunar calendar with full moon at night, corresponding to late September to early October of the Gregorian calendar with a full moon at night.\nMooncakes, a rich pastry typically filled with sweet bean paste or lotus seed paste are traditionally eaten during the festival.\nIt is also called Moon Festival or Harvest Moon Festival, because of the celebration\'s association with the full moon on this night, as well as the traditions of moon worship and moon gazing."
+}

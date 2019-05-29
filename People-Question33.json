@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"While visiting someone\'s house in Japan, what should you do?",
+"answers":[
+	"Drink Beer",
+	"Remove your Shoes",
+	"Stand on your head",
+	"Must bring a Gift"
+	],
+"correctAnswer":2,
+"hints":[
+	"Genkan are found in even small apartments",
+	"Bare feet are acceptable when visiting a close friend, but not otherwise"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"It is considered an honor to be invited to someone\'s home in Japan. Many Japanese regard their homes as being too humble to entertain guests.\nShoes are not worn inside – since the floor level is often higher than ground or entrance level or even the same height, Japanese don\'t want the floor to be stained by soil, sand or dust that may be attached to the soles. Instead, shoes are removed in the genkan (mudroom or entrance foyer), and often replaced with slippers called uwabaki. Just wearing socks is also acceptable in informal situations.\nGenkan are found in even small apartments, where they are correspondingly small, and feature a small step up. Socks, however, are not generally removed – bare feet are acceptable when visiting a close friend, but not otherwise. There are also separate slippers used when using a bathroom, for reasons of hygiene."
+}
