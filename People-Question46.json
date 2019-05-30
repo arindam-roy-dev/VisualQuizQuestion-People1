@@ -1,0 +1,21 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Who is called \'Little Corporal\'?",
+"answers":[
+	"Adolf Hitler",
+	"Napolean Bonaparte",
+	"Qi Jiguang",
+	"Alexander the Great"
+	],
+"correctAnswer":2,
+"hints":[
+	"He was taller at 5 feet 7 inches (1.70 m)",
+	"He surrounded himself with tall bodyguards and was affectionately nicknamed \'the little corporal\'",
+	"A French statesman and military leader"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Napoleon Bonaparte (15 August 1769 – 5 May 1821) was a French statesman and military leader of Italian descent who rose to prominence during the French Revolution and led several successful campaigns during the French Revolutionary Wars. He was Emperor of the French as Napoleon I from 1804 until 1814 and again briefly in 1815 during the Hundred Days.\nHe was the height of an average French male but short for an aristocrat or officer, part of why he was assigned to the artillery, since at the time the infantry and cavalry required more commanding figures. It is possible he was taller at 5 feet 7 inches (1.70 m) due to the difference in the French measurement of inches.\nNapoleon surrounded himself with tall bodyguards and was affectionately nicknamed le petit caporal (the little corporal), reflecting his reported camaraderie with his soldiers rather than his height."
+}

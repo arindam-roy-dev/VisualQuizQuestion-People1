@@ -1,0 +1,19 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Which is the \"World environment Day"\?",
+"answers":[
+	"June 5",
+	"April 5",
+	"October 15",
+	"January 15"
+	],
+"correctAnswer":1,
+"hints":[
+	"Almost, in the middle of Year"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":2
+	},
+"aboutAnswer":"World Environment Day (WED) is celebrated on the 5th of June every year, and is the United Nation\'s principal vehicle for encouraging awareness and action for the protection of our environment.\nFirst held in 1974, it has been a flagship campaign for raising awareness on emerging environmental issues from marine pollution, human overpopulation, and global warming, to sustainable consumption and wildlife crime. WED has grown to become a global platform for public outreach, with participation from over 143 countries annually.\nEach year, WED has a new theme that major corporations, NGOs, communities, governments and celebrities worldwide adopt to advocate environmental causes."
+}
