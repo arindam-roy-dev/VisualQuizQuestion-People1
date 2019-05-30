@@ -1,0 +1,21 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Who is the author of the fantasy novels - Harry Potter?",
+"answers":[
+	"Lewis Carroll",
+	"JRR Tolkien",
+	"J. K. Rowling",
+	"Charles Dickens"
+	],
+"correctAnswer":3,
+"hints":[
+	"Harry Potter is a series of fantasy novels written by a British author",
+	"Alice in Wonderland was written by Lewis Carroll",
+	"First Name of the Author is Joanne"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Harry Potter is a series of fantasy novels written by British author J. K. Rowling. The novels chronicle the lives of a young wizard, Harry Potter, and his friends Hermione Granger and Ron Weasley, all of whom are students at Hogwarts School of Witchcraft and Wizardry. The main story arc concerns Harry\'s struggle against Lord Voldemort, a dark wizard who intends to become immortal, overthrow the wizard governing body known as the Ministry of Magic and subjugate all wizards and Muggles (non-magical people).\nJoanne Rowling (born 31 July 1965), writing under the pen names J. K. Rowling and Robert Galbraith, is a British novelist, philanthropist, film producer, television producer and screenwriter, best known for writing the Harry Potter fantasy series.\nThe books have won multiple awards, and sold more than 500 million copies, becoming the best-selling book series in history. They have also been the basis for a film series, over which Rowling had overall approval on the scripts and was a producer on the final films in the series."
+}
