@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the Japanese art of flower arrangement called?",
+"answers":[
+	"Feng Shui",
+	"Chadō",
+	"Kōdō",
+	"Ikebana"
+	],
+"correctAnswer":4,
+"hints":[
+	"Kōdō is classical Japanese art for incense appreciation",
+	"Chadō is classical Japanese art for tea and the tea ceremony"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Ikebana is the Japanese art of flower arrangement. It is also known as Kadō.\nThe tradition dates back to the 7th century when floral offerings were made at altars. Later, they were placed in the tokonoma (alcove) of a home. Ikebana reached its first zenith in the 16th century under the influence of Buddhist tea masters and has grown over the centuries, with over 1,000 different schools in Japan and abroad.\nKadō is counted as one of the three classical Japanese arts of refinement, along with kōdō for incense appreciation and chadō for tea and the tea ceremony."
+}
