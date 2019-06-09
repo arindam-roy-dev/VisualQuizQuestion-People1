@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Classical Dance?",
+"answers":[
+	"Flamenco",
+	"Ballet",
+	"Samba",
+	"Ballad"
+	],
+"correctAnswer":2,
+"hints":[
+	"Originated during the Italian Renaissance in the fifteenth century, later developed in France and Russia",
+	"Usually performed with classical music accompaniment and use elaborate costumes and staging"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Ballet (French: [bale]) is a type of performance dance that originated during the Italian Renaissance in the fifteenth century and later developed into a concert dance form in France and Russia.\nIt has since become a widespread, highly technical form of dance with its own vocabulary based on French terminology. It has been globally influential and has defined the foundational techniques used in many other dance genres and cultures.\nBallet has been taught in various schools around the world, which have historically incorporated their own cultures and as a result, the art has evolved in a number of distinct ways. See glossary of ballet.\nA ballet, a work, consists of the choreography and music for a ballet production. Ballets are choreographed and performed by trained ballet dancers.\nTraditional classical ballets are usually performed with classical music accompaniment and use elaborate costumes and staging, whereas modern ballets, such as the neoclassical works of American choreographer George Balanchine, often are performed in simple costumes (e.g., leotards and tights) and without the use of elaborate sets or scenery."
+}

@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Musical Instrument?",
+"answers":[
+	"Tamburica",
+	"Banjo",
+	"Cellos",
+	"Harp"
+	],
+"correctAnswer":4,
+"hints":[
+	"The body is hollow, and when a taut string is plucked, the body resonates, projecting sound",
+	"Known since antiquity in Asia, Africa and Europe, dating back as early as 3500 BC",
+	"It also has a Pedal version"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The harp is a stringed musical instrument that has a number of individual strings running at an angle to its soundboard; the strings are plucked with the fingers.\nHarps have been known since antiquity in Asia, Africa and Europe, dating back at least as early as 3500 BC. The instrument had great popularity in Europe during the Middle Ages and Renaissance, where it evolved into a wide range of variants with new technologies, and was disseminated to Europe\'s colonies, finding particular popularity in Latin America.\nAlthough some ancient members of the harp family died out in the Near East and South Asia, descendants of early harps are still played in Myanmar and parts of Africa, and other defunct variants in Europe and Asia have been utilized by musicians in the modern era.\nHarps vary globally in many ways. In terms of size, many smaller harps can be played on the lap, whereas larger harps are quite heavy and rest on the floor. Different harps may use strings of catgut, nylon, metal, or some combination.\nWhile all harps have a neck, resonator, and strings, frame harps have a pillar at their long end to support the strings, while open harps, such as arch harps and bow harps, do not. Modern harps also vary in techniques used to extend the range and chromaticism (e.g., adding sharps and flats) of the strings, such as adjusting a string\'s note mid-performance with levers or pedals which modify the pitch. The pedal harp is a standard instrument in the orchestra of the Romantic music era (ca. 1800–1910) and the contemporary music era."
+}
