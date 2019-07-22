@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Who is the writer of Sherlock Holmes?",
+"answers":[
+	"Arthur Conan Doyle",
+	"Edgar Allan Poe",
+	"Agatha Christie",
+	"P. D. James"
+	],
+"correctAnswer":1,
+"hints":[
+	"He was a British writer best known for his detective fictions",
+	"Edgar Allan Poe was an American writer"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":2
+	},
+"aboutAnswer":"Sir Arthur Ignatius Conan Doyle KStJ DL (22 May 1859 – 7 July 1930) was a British writer best known for his detective fiction featuring the character Sherlock Holmes.\nOriginally a physician, in 1887 he published A Study in Scarlet, the first of four novels and more than fifty short stories about Holmes and Dr. Watson. The Sherlock Holmes stories are generally considered milestones in the field of crime fiction.\nDoyle was a prolific writer; his non-Sherlockian works include fantasy and science fiction stories about Professor Challenger and humorous stories about the Napoleonic soldier Brigadier Gerard, as well as plays, romances, poetry, non-fiction and historical novels.\nOne of Doyle\'s early short stories, \"J. Habakuk Jephson\'s Statement\", helped to popularise the mystery of the Mary Celeste."
+}
