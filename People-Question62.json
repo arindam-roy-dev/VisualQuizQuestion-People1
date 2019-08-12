@@ -1,0 +1,23 @@
+{
+"app":"Visual Quiz",
+"question":"What is the Chinese or Korean festival of the Winter Solstice?",
+"answers":[
+	"Dongzhi",
+	"Tet",
+	"Yom Kippur",
+	"Lunar New Year"
+	],
+"correctAnswer":1,
+"hints":[
+	"This festival is a time for the family to get together",
+	"Activity that occurs during these get-togethers is the making and eating of tangyuan or balls of glutinous rice, which symbolize reunion",
+	"Lunar New Year celebrated in Spring",
+	"Yom Kippur is the holiest day of the year in Judaism",
+	"The Tet Festival in February is the Vietnamese Lunar New Year celebration welcoming the return of spring"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":2
+	},
+"aboutAnswer":"The Dongzhi Festival or Winter Solstice Festival is one of the most important Chinese and East Asian festivals celebrated by the Chinese, Japanese, and Koreans during the Dongzhi solar term (winter solstice) on or around December 22 (according to East Asia time).\nThe origins of this festival can be traced back to the yin and yang philosophy of balance and harmony in the cosmos. After this celebration, there will be days with longer daylight hours and therefore an increase in positive energy flowing in. The philosophical significance of this is symbolized by the I Ching hexagram fù.\nTraditionally, the Dongzhi Festival is also a time for the family to get together. One activity that occurs during these get-togethers (especially in the southern parts of China and in Chinese communities overseas) is the making and eating of tangyuan or balls of glutinous rice, which symbolize reunion.\nTangyuan are made of glutinous rice flour and sometimes brightly coloured. Each family member receives at least one large tangyuan in addition to several small ones. The flour balls are occasionally pink or green. They are cooked in a sweet soup or savory broth with both the ball and the soup/broth served in one bowl.\nIt is also often served with a mildly alcoholic unfiltered rice wine containing whole grains of glutinous rice (and often also Sweet Osmanthus flowers), called jiuniang."
+}

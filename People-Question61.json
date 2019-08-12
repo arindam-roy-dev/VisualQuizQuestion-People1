@@ -1,0 +1,22 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Popular Food?",
+"answers":[
+	"Taco",
+	"Poutine",
+	"Paella",
+	"Masala Dosa"
+	],
+"correctAnswer":1,
+"hints":[
+	"It is a traditional Mexican dish",
+	"It is generally eaten without utensils",
+	"Poutine is originated in the Canadian province of Quebec",
+	"Masala Dosa is popular dish in South India"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":0
+	},
+"aboutAnswer":"A taco is a traditional Mexican dish consisting of a corn or wheat tortilla folded or rolled around a filling.\nA taco can be made with a variety of fillings, including beef, pork, chicken, seafood, vegetables, and cheese, allowing great versatility and variety.\nTacos are generally eaten without utensils, often garnished with salsa, chili pepper, avocado, guacamole, cilantro (coriander), tomatoes, onions, and lettuce."
+}
