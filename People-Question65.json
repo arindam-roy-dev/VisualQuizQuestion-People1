@@ -1,0 +1,22 @@
+{
+"app":"Visual Quiz",
+"question":"Who is she?",
+"answers":[
+	"Amy Wilson Carmichael",
+	"Mary Slessor",
+	"Elisabeth Elliot",
+	"Mother Teresa"
+	],
+"correctAnswer":2,
+"hints":[
+	"She moved to Ireland and then to India, where she lived for most of her life",
+	"She received 1962 Ramon Magsaysay Peace Prize and 1979 Nobel Peace Prize",
+	"Elisabeth Elliot was a Christian author and speaker in Belgium",
+	"Mary Mitchell Slessor was a Scottish Presbyterian missionary to Nigeria"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Mary Teresa Bojaxhiu (26 August 1910 – 5 September 1997), commonly known as Mother Teresa and honoured in the Catholic Church as Saint Teresa of Calcutta, was an Albanian-Indian Roman Catholic nun and missionary.\nShe was born in Skopje (now the capital of North Macedonia), then part of the Kosovo Vilayet of the Ottoman Empire. After living in Skopje for eighteen years, she moved to Ireland and then to India, where she lived for most of her life.\nIn 1950, Teresa founded the Missionaries of Charity, a Roman Catholic religious congregation that had over 4,500 nuns and was active in 133 countries in 2012. The congregation manages homes for people who are dying of HIV/AIDS, leprosy and tuberculosis. It also runs soup kitchens, dispensaries, mobile clinics, children\'s and family counselling programmes, as well as orphanages and schools.\nTeresa received a number of honors, including the 1962 Ramon Magsaysay Peace Prize and 1979 Nobel Peace Prize.\nShe was canonised on 4 September 2016, and the anniversary of her death (5 September) is her feast day.\nHer authorized biography was written by Navin Chawla and published in 1992, and she has been the subject of films and other books. On 6 September 2017, Teresa and St. Francis Xavier were named co-patrons of the Roman Catholic Archdiocese of Calcutta."
+}

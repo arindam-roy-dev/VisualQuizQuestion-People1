@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"Which of the following is considered poor etiquette in Japan?",
+"answers":[
+	"Sitting on the floor around a low table to eat rather than in chairs",
+	"Taking off your shoes before entering someone\'s home",
+	"Placing your chopsticks upright in your food",
+	"Offering a gift with two hands"
+	],
+"correctAnswer":3,
+"hints":[
+	"It is important to give and receive gifts with both hands in Japan"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"It\’s very common in homes, and even in some traditional restaurants, to sit on the floor around a low table to eat rather than in Western-style chairs.\nFor formal occasions, both genders kneel down and sit up straight. For more casual situations, women may sit with both legs to one side, and men can sit in the cross-legged seated position that many cultures are familiar with.\nAlways take off your shoes when entering someone\’s home. A Japanese home will always have slippers for guests to wear, so you don\’t have to worry about getting your socks dirty.\nSome temples and restaurants might also ask patrons to remove their shoes before entering.\nThere are two places to lay your chopsticks down on the table: either flat across your bowl, or leaning on the chopstick rest. Never leave your chopsticks sticking straight up in your rice bowl and never pass food from chopsticks to chopsticks: both of these mimic funeral rituals and are considered disrespectful.\nIf you want to pass food to someone, use the back end of your chopsticks to place it in a dish for them.\nIt is important to give and receive gifts with both hands; a sign of respect. When receiving a gift, one ought to modestly refuse the present up to three times before finally accepting. It is considered rude to give a present to only one person when in a group of many people."
+}

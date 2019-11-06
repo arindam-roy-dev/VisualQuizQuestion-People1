@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"In china, which number is considered an unlucky number?",
+"answers":[
+	"0",
+	"4",
+	"13",
+	"14"
+	],
+"correctAnswer":2,
+"hints":[
+	"Similar to Western practice of some buildings not having a 13th floor",
+	"In China, that number is nearly homophonous to the word \"death\""
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":2
+	},
+"aboutAnswer":"The number 4 is considered an unlucky number in Chinese because it is nearly homophonous to the word \"death\".\nThus, some buildings in East Asia omit floors and room numbers containing 4, similar to the Western practice of some buildings not having a 13th floor because 13 is considered unlucky.\nWhere East Asian and Western cultures blend, such as in Hong Kong, it is possible in some buildings that the thirteenth floor along with all the floors with 4s to be omitted. Thus a building whose top floor is numbered 100 would in fact have just eighty one floors."
+}

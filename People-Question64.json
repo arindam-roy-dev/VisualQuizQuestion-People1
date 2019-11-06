@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Which of the following is NOT one of the five pillars of the Islamic religion?",
+"answers":[
+	"Shahadah (Faith)",
+	"Torah (Teaching)",
+	"Sawm (Fasting)",
+	"Hajj (Pilgrimage)"
+	],
+"correctAnswer":2,
+"hints":[
+	"First Pillar of Islam is Shahadah",
+	"Fourth Pillar of Islam is Sawm"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":2
+	},
+"aboutAnswer":"The Five Pillars of Islam are some basic acts in Islam, considered mandatory by believers, and are the foundation of Muslim life. They are summarized in the famous hadith of Gabriel.\nThe Sunni and Shia agree on the essential details for the performance and practice of these acts, but the Shia do not refer to them by the same name.\nThey make up Muslim life, prayer, concern for the needy, self-purification, and the pilgrimage, if one is able. Pillars of Sunni Islam are:\nFirst Pillar: Shahadah (Profession of Faith)\nSecond Pillar: Salat (Prayer)\nThird Pillar: Zakat (Almsgiving)\nFourth Pillar: Sawm (Fasting)\nFifth Pillar: Hajj (Pilgrimage)\nOne of the greatest assumptions about Islamic history is that the Five Pillars were already set and in place at the time of the Prophet\’s death in 632 C.E. However, most changes to these Islamic rituals came from small differences among minority Muslim groups. The major beliefs of the Pillars were already in place, taking the shape of the life and beliefs of the Prophet Muhammad.\nThe Five Pillars are alluded to in the Quran, and some are even specifically stated in the Quran, like the Hajj to Mecca. However, the difference in practice of these traditions are accepted in Islam of the Five Pillars, but this does not mean they have all existed since the life of Muhammad. The evidence of differences shows pillars have not always been consistent to what they are today, so it has taken many years for the Pillars to get to their current and classic form."
+}
