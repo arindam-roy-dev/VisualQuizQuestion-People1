@@ -1,4 +1,4 @@
-{
+﻿{
 "app":"Visual Quiz",
 "question":"Who is she?",
 "answers":[
@@ -7,7 +7,7 @@
 	"Elisabeth Elliot",
 	"Mother Teresa"
 	],
-"correctAnswer":2,
+"correctAnswer":4,
 "hints":[
 	"She moved to Ireland and then to India, where she lived for most of her life",
 	"She received 1962 Ramon Magsaysay Peace Prize and 1979 Nobel Peace Prize",
