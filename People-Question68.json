@@ -1,0 +1,20 @@
+﻿{
+"app":"Visual Quiz",
+"question":"In what country is the thumbs-up gesture an insult?",
+"answers":[
+	"Iraq and Iran",
+	"USA and Canada",
+	"China and Japan",
+	"England and France"
+	],
+"correctAnswer":1,
+"hints":[
+	"In Facebook, an American online social networking service, the thumbs up gesture is shown as the term \"like\"",
+	"It applies some countries in parts of West Africa and Middle East"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":2
+	},
+"aboutAnswer":"The thumbs up signal has a generally positive connotation in English-speaking countries. However, its perceived meaning varies significantly from culture to culture.\nThe sign has a pejorative meaning in parts of West Africa and some of the Middle Eastern countries including Iraq and Iran where the sign is equivalent to giving the middle finger.\nIn Germany, France, and Hungary, the gesture can simply indicate the number one, in the right context.\nThe thumbs up gesture is used on the logo of Thums Up, a popular brand of cola from India. Starting in 2007, the thumbs-up also appeared on India\'s one-rupee coin.\nOn the Internet, and most particularly on the social media site Facebook, the thumbs up gesture is shown as an icon and is associated with the term \"like\"—which within that context means to follow or subscribe to the page, posts, or profile of another individual or company; and on YouTube, individual videos may be voted on positively or negatively by clicking the thumbs-up or thumbs-down icons respectively (which in some previous versions of the site, used to be accompanied by \"Like\" and \"Dislike\" labels, and are still referred as such nowadays), and in the case of a thumbs-up, the video gets added to the user\'s \"Liked videos\" playlist. See Like button."
+}

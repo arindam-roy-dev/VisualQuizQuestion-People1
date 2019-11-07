@@ -1,0 +1,19 @@
+﻿{
+"app":"Visual Quiz",
+"question":"What is the official language of Brazil?",
+"answers":[
+	"English",
+	"French",
+	"Portuguese",
+	"Spanish"
+	],
+"correctAnswer":3,
+"hints":[
+	"Brazil remained a Portuguese colony until 1808"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The official language of Brazil is Portuguese, which almost all of the population speaks and is virtually the only language used in newspapers, radio, television, and for business and administrative purposes.\nBrazil is the only Portuguese-speaking nation in the Americas, making the language an important part of Brazilian national identity and giving it a national culture distinct from those of its Spanish-speaking neighbors.\nBrazilian Portuguese has had its own development, mostly similar to 16th-century Central and Southern dialects of European Portuguese, with a few influences from the Amerindian and African languages, especially West African and Bantu restricted to the vocabulary only. As a result, the language is somewhat different, mostly in phonology, from the language of Portugal and other Portuguese-speaking countries (the dialects of the other countries, partly because of the more recent end of Portuguese colonialism in these regions, have a closer connection to contemporary European Portuguese). These differences are comparable to those between American and British English.\nMinority languages are spoken throughout the nation. One hundred and eighty Amerindian languages are spoken in remote areas and a significant number of other languages are spoken by immigrants and their descendants.\nIt is the largest country to have Portuguese as an official language and the only one in the Americas."
+}
