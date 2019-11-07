@@ -1,0 +1,22 @@
+﻿{
+"app":"Visual Quiz",
+"question":"What is the name of this vintage shoes?",
+"answers":[
+	"Slippers",
+	"Sabot",
+	"Wellington boot",
+	"Gamurra"
+	],
+"correctAnswer":2,
+"hints":[
+	"it is a clog from France",
+	"Clogs are a type of footwear made in part or completely from wood",
+	"Gammura was an Italian style of women\'s dress",
+	"Wellington boot was originally a type of leather boot"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":2
+	},
+"aboutAnswer":"A sabot is a clog from France or surrounding countries such as Belgium or Italy. Sabots are whole feet clogs.\nClogs are a type of footwear made in part or completely from wood. Clogs are used worldwide and although the form may vary by culture, within a culture the form often remained unchanged for centuries.\nSabots were associated with the lower classes in the 16th to 19th centuries. During this period, the years of the Industrial Revolution, the word sabotage gained currency. Allegedly derived from sabot, sabotage described the actions of disgruntled workers who willfully damaged workplace machinery by throwing their sabots into the works. In truth, sabotage is derived from a different French word.\n45,000 pairs of Sabot were made in Jersey during the occupation of the island from 1940–45."
+}

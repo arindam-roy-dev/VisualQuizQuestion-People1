@@ -1,0 +1,20 @@
+﻿{
+"app":"Visual Quiz",
+"question":"What is the name of this instrument?",
+"answers":[
+	"Saxophone",
+	"Trumpet",
+	"Flute",
+	"Bagpipes"
+	],
+"correctAnswer":4,
+"hints":[
+	"the Scottish were popular playing with this",
+	"It is a woodwind instrument using enclosed reeds fed from a constant reservoir of air in the form of a bag"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Bagpipes are a woodwind instrument using enclosed reeds fed from a constant reservoir of air in the form of a bag.\nThe Scottish Great Highland bagpipes are the best known in the Anglophone world; however, bagpipes have been played for a millennium or more throughout large parts of Europe, northern Africa, and western Asia, including Anatolia, the Caucasus, and around the Persian Gulf.\nA set of bagpipes minimally consists of an air supply, a bag, a chanter, and usually at least one drone. Many bagpipes have more than one drone (and, sometimes, more than one chanter) in various combinations, held in place in stocks—sockets that fasten the various pipes to the bag.\nThe most common method of supplying air to the bag is through blowing into a blowpipe or blowstick. In some pipes the player must cover the tip of the blowpipe with their tongue while inhaling, but most blowpipes have a non-return valve that eliminates this need. In recent times, there are many instruments that assist in creating a clean air flow to the pipes and assist the collection of condensation.\nIn the early part of the second millennium, definite clear attestations of bagpipes began to appear with frequency in Western European art and iconography. The Cantigas de Santa Maria, written in Galician-Portuguese and compiled in Castile in the mid-13th century, depicts several types of bagpipes. Several illustrations of bagpipes also appear in the Chronique dite de Baudoin d’Avesnes, a 13th-century manuscript of northern French origin."
+}

@@ -1,0 +1,21 @@
+﻿{
+"app":"Visual Quiz",
+"question":"What is the name of this vintage glass?",
+"answers":[
+	"Pince-nez",
+	"Shako",
+	"Chignon",
+	"Corset"
+	],
+"correctAnswer":1,
+"hints":[
+	"Shako is a tall, cylindrical military cap, usually with a visor, and sometimes tapered at the top",
+	"Chignon is a popular type of hairstyle. \"Chignon\" means nape of the neck",
+	"Corset is a garment worn to hold and train the torso into a desired shape"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Pince-nez is a style of glasses, popular in the late 19th and early 20th centuries, that are supported without ear pieces, by pinching the bridge of the nose.\nThe name comes from French pincer, \"to pinch\", and nez, \"nose\".\nAlthough pince-nez were used in Europe since the late 14th century, modern ones appeared in the 1840s and reached their peak popularity around 1880 to 1900. Because they did not always stay on the nose when placed, and because of the stigma sometimes attached to the constant wearing of eyeglasses, pince-nez were often connected to the wearer\'s clothing or ear via a suspension chain, cord, or ribbon so that they could be easily removed and not lost.\nPince-nez is central to the murder mystery in the Sherlock Holmes story The Adventure of the Golden Pince-Nez. Another murder mystery, Whose Body? by Dorothy L. Sayers, features a victim found dead in a bathtub wearing nothing but a pair of pince-nez."
+}

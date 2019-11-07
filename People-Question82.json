@@ -1,0 +1,19 @@
+﻿{
+"app":"Visual Quiz",
+"question":"What is the name of this instrument?",
+"answers":[
+	"Mandolin",
+	"Harp",
+	"Violin",
+	"Didgeridoo"
+	],
+"correctAnswer":1,
+"hints":[
+	"The courses are typically tuned in a succession of perfect fifths, with the same tuning as a violin"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":0
+	},
+"aboutAnswer":"A mandolin is a stringed musical instrument in the lute family and is usually plucked with a plectrum.\nIt commonly has four courses of doubled metal strings tuned in unison (8 strings), although five (10 strings) and six (12 strings) course versions also exist.\nThe courses are typically tuned in a succession of perfect fifths, with the same tuning as a violin. It is the soprano member of a family that includes the mandola, octave mandolin, mandocello and mandobass.\nThere are many styles of mandolin, but three are common, the Neapolitan or round-backed mandolin, the carved-top mandolin and the flat-backed mandolin. The round-back has a deep bottom, constructed of strips of wood, glued together into a bowl. The carved-top or arch-top mandolin has a much shallower, arched back, and an arched top—both carved out of wood.\nMandolins have a body that acts as a resonator, attached to a neck. The resonating body may be shaped as a bowl (necked bowl lutes) or a box (necked box lutes). Traditional Italian mandolins, such as the Neapolitan mandolin, meet the necked bowl description. The necked box instruments include the carved top mandolins and the flatback mandolins.\nMandolins evolved from lute family instruments in Europe. Predecessors include the gittern and mandore or mandola in Italy during the 17th and 18th centuries. There were a variety of regional variants, but two that were widespread included the Neapolitan mandolin and the Lombardic mandolin. The Neapolitan style has spread worldwide."
+}
