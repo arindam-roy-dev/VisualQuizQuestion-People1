@@ -1,0 +1,20 @@
+﻿{
+"app":"Visual Quiz",
+"question":"What is of this popular Food?",
+"answers":[
+	"Hot dog",
+	"Salad",
+	"Pumpkin Pie",
+	"Pasta"
+	],
+"correctAnswer":1,
+"hints":[
+	"It can also refer to the sausage itself",
+	"Serving temperature is hot"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"The hot dog is a grilled or steamed link-sausage sandwich where the sausage is served in the slit of a partially sliced bun.\nIt can also refer to the sausage itself. The sausage used is the wiener (Vienna sausage) or frankfurter (also frank). The names of these sausages also commonly refer to their assembled sandwiches.\nHot dog preparation and condiments vary regionally in the US. Typical condiments include mustard, ketchup, mayonnaise, relish, and cheese sauce, and common garnishes include onions, sauerkraut, jalapeños, chili, grated cheese, coleslaw, and olives. Hot dog variants include the corn dog and pigs in a blanket. The hot dog\'s cultural traditions include the Nathan\'s Hot Dog Eating Contest and the Oscar Mayer Wienermobile.\nThese types of sausages and their sandwiches were culturally imported from Germany and became popular in the United States, where the \"hot dog\" became a working-class street food sold at stands and carts. The hot dog became closely associated with baseball and American culture. Although particularly connected with New York City and its cuisine, the hot dog eventually became ubiquitous throughout the US during the 20th century, and emerged as an important part of other regional cuisines, including Chicago street cuisine."
+}

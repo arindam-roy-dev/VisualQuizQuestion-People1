@@ -1,0 +1,21 @@
+﻿{
+"app":"Visual Quiz",
+"question":"What is the name of this movie?",
+"answers":[
+	"The Lion King",
+	"Spirit: Stallion of the Cimarron",
+	"Bambi",
+	"The Aristocats"
+	],
+"correctAnswer":2,
+"hints":[
+	"American animated adventure film, released in theaters on May 24, 2002",
+	"The instrumental score was composed by Hans Zimmer with songs by Bryan Adams",
+	"The opening theme song for the film, \"Here I Am\" was written by Bryan Adams"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Spirit: Stallion of the Cimarron is a 2002 American animated adventure film produced by DreamWorks Animation and distributed by DreamWorks Pictures.\nThe film was directed by Kelly Asbury and Lorna Cook in their directional debuts, and written by John Fusco.\nThe film follows Spirit, a Kiger Mustang stallion (voiced by Matt Damon through inner dialogue), who is captured during the American Indian Wars by the United States Cavalry; he is freed by a Native American man named Little Creek who attempts to lead him back into the Lakota village.\nIn contrast to the way animals are portrayed in an anthropomorphic style in other animated features, Spirit and his fellow horses communicate with each other through sounds and body language like real horses.\nSpirit: Stallion of the Cimarron was released in theaters on May 24, 2002, and earned $122.6 million on an $80 million budget. It was nominated for the Academy Award for Best Animated Feature, losing to Spirited Away.\nSpirit: Stallion of the Cimarron was made over the course of four years using a conscious blend of traditional hand-drawn animation and computer animation. James Baxter said that the animation was the most difficult piece of production he worked on for a movie.\nSound designer Tim Chau was dispatched to stables outside Los Angeles to record the sounds of real horses; the final product features real hoof beats and horse vocals that were used to express their vocalizations in the film.\nThe production team took a trip to the western United States to view scenic places they could use as inspiration for locations in the film. The homeland of the mustangs and Lakotas is based on Glacier National Park, Yellowstone National Park, Yosemite National Park, and the Teton mountain range; the cavalry outpost was also based on Monument Valley.\nThe instrumental score was composed by Hans Zimmer with songs by Bryan Adams in both the English and French versions of the album. The opening theme song for the film, \"Here I Am\" was written by Bryan Adams, Gretchen Peters, and Hans Zimmer. It was produced by Jimmy Jam and Terry Lewis."
+}

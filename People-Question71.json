@@ -1,0 +1,19 @@
+﻿{
+"app":"Visual Quiz",
+"question":"What is of this popular Food?",
+"answers":[
+	"Pancakes",
+	"Burger",
+	"Pizza",
+	"Apple Pie"
+	],
+"correctAnswer":2,
+"hints":[
+	"It is sold at fast-food restaurants"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"A hamburger (short: burger) is a sandwich consisting of one or more cooked patties of ground meat, usually beef, placed inside a sliced bread roll or bun. The patty may be pan fried, grilled, smoked or flame broiled.\nHamburgers are often served with cheese, lettuce, tomato, onion, pickles, bacon, or chiles; condiments such as ketchup, mayonnaise, mustard, relish, or special sauce; and are frequently placed on sesame seed buns. A hamburger topped with cheese is called a cheeseburger.\nThe term \"burger\" can also be applied to the meat patty on its own, especially in the United Kingdom, where the term \"patty\" is rarely used, or the term can even refer simply to ground beef. Since the term hamburger usually implies beef, for clarity \"burger\" may be prefixed with the type of meat or meat substitute used, as in beef burger, turkey burger, bison burger, or veggie burger.\nHamburgers are sold at fast-food restaurants, diners, and specialty and high-end restaurants (where burgers may sell for several times the cost of a fast-food burger, but may be one of the cheaper options on the menu). There are many international and regional variations of the hamburger.\nRaw hamburger may contain harmful bacteria that can produce food-borne illness such as Escherichia coli O157:H7, due to the occasional initial improper preparation of the meat, so caution is needed during handling and cooking. Because of the potential for food-borne illness, the USDA recommends hamburgers be cooked to an internal temperature of 160 °F (71 °C). If cooked to this temperature, they are considered well-done."
+}

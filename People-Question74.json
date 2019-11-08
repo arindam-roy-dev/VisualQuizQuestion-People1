@@ -1,0 +1,21 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Which is the International Friendship Day?",
+"answers":[
+	"1 December",
+	"3 March",
+	"5 October",
+	"30 July"
+	],
+"correctAnswer":4,
+"hints":[
+	"3 March is World Wildlife Day",
+	"5 October is World Teachers\’ Day",
+	"1 December is World AIDS Day"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":2
+	},
+"aboutAnswer":"The first World Friendship Day was proposed for 30 July in 1958, by the World Friendship Crusade. On 27 April 2011 the General Assembly of the United Nations declared 30 July as official International Friendship Day.\nFriendship Day was originated by Joyce Hall, the founder of Hallmark cards in 1930, intended to be 2 August and a day when people celebrated their friendships by holiday celebrations.\nFriendship Day was promoted by the greeting card National Association during the 1920s but met with consumer resistance – given that it was too obviously a commercial gimmick to promote greetings cards. By the 1940s the number of Friendship Day cards available in the U.S. by had dwindled and the holiday largely died out there.\nThere is no evidence to date for its uptake in Europe; however, it has been kept alive and revitalised in Asia, where several countries have adopted it.\nSome friends acknowledge each other with exchanges of gifts and cards on this day. Friendship bands are very popular in India, Nepal, Bangladesh, and parts of South America. With the advent of social networking sites, Friendship Day is also being celebrated online.\nNowadays it is celebrated on the first Sunday of August rather than 30 July. However, on 27 July 2011 the 65th Session of the United Nations General Assembly declared 30 July as \"International Day of Friendship\"."
+}
