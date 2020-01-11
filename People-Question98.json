@@ -1,0 +1,22 @@
+﻿{
+"app":"Visual Quiz",
+"question":"What is the name of this popular music band?",
+"answers":[
+	"AC DC",
+	"Linkin Park",
+	"Poets of the Fall",
+	"Coldplay"
+	],
+"correctAnswer":3,
+"hints":[
+	"The origin of the music group is in Helsinki, Finland",
+	"AC/DC are an Australian rock band",
+	"Linkin Park is an American rock band",
+	"Coldplay are a British rock band formed in London"
+	]
+"earn":{
+	"hints":1,
+	"hideAnswers":2
+	},
+"aboutAnswer":"Poets of the Fall (POTF) is a Finnish rock band from Helsinki. The group consists of Marko Saaresto (lead vocals), Olli Tukiainen (lead guitar), Markus \"Captain\" Kaarlonen (keyboards, production), Jani Snellman (bass), Jaska Mäkinen (rhythm guitar, backing vocals), and Jari Salminen (drums, percussion). \nThe band was founded on 25 April 2003 by Saaresto and Tukiainen. Tukiainen had written multiple songs for Saaresto\'s previous band Playground and performed with Finnish jazzband Pohjoinen Syke previously.\nIn 2003, Saaresto\'s friend Sami Järvi, a script-writer working at Remedy Entertainment handed Saaresto a poem he had written, asking him to turn it into a song to use in Remedy\'s video game Max Payne 2: The Fall of Max Payne. The song, entitled \"Late Goodbye\", was used as the ending-theme of the game as well as a recurring motif, being sung and whistled by multiple characters. It was produced by Markus \"Captain\" Kaarlonen, who joined the band shortly after due to Saaresto and Tukiainen liking his work.\nKaarlonen being a former employee of benchmark-developer Futuremark, POTF were offered to have their song Lift included in the 2005-literation of Futuremark\'s benchmarking software 3DMark, which exposed the band to a wider audience than Max Payne 2 had done.\nIn order to keep complete control and freedom over the band, the members founded their own independent record label, Insomniac, on which they have released all their CDs as of 2014.\nOn 30 June 2004, the Poets released their debut single Late Goodbye in Finland which was followed by Lift on 9 September 2004. The songs charted No. 14 and No. 8 on the Finnish single charts and reached No. 2 and No. 7 in YleX\'s 2004-voting for \"Best Finnish song\". POTF were also voted \"Fresh Newcomer of 2004\" by YleX. The videos for both songs were directed by Tuomas \"Stobe\" Harju.\nPOTF performed at Popkomm 2005 in Berlin. On 18 December 2004, the Poets released a free download single on their website Maybe Tomorrow is a Better Day to market the release of their debut album Signs of Life. After having been taken offline, it was remastered and reissued on the band's second album Carnival of Rust."
+}

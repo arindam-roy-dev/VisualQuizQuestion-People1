@@ -1,0 +1,21 @@
+﻿{
+"app":"Visual Quiz",
+"question":"What is the name of this movie?",
+"answers":[
+	"Robin Hood",
+	"Bambi",
+	"mulan",
+	"Lion King"
+	],
+"correctAnswer":2,
+"hints":[
+	"It is a 1942 American animated film directed by David Hand",
+	"It is the fifth Disney animated feature film",
+	"The film received three Academy Award nominations: Best Sound (Sam Slyfield), Best Song (for \"Love Is a Song\" sung by Donald Novis)"
+	]
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Bambi is a 1942 American animated film directed by David Hand, produced by Walt Disney and based on the 1923 book Bambi, a Life in the Woods by Austrian author Felix Salten.\nThe film was released by RKO Radio Pictures on August 13, 1942, and is the fifth Disney animated feature film.\nThe main characters are Bambi, a mule deer; his parents (the Great Prince of the forest and his unnamed mother); his friends Thumper (a pink-nosed rabbit); and Flower (a skunk); and his childhood friend and future mate, Faline. For the movie, Disney took the liberty of changing Bambi\'s species into a mule deer from his original species of roe deer, since roe deer are not native to North America, and the mule deer is more widespread in the United States.\nThe film received three Academy Award nominations: Best Sound (Sam Slyfield), Best Song (for \"Love Is a Song\" sung by Donald Novis) and Original Music Score."
+}

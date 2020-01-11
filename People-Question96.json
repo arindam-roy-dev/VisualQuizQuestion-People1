@@ -1,0 +1,22 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Who Painted the painting \'Lover in a Beret\'?",
+"answers":[
+	"Leonardo Da Vinci",
+	"Hans Memling",
+	"Pablo Picasso",
+	"Raphael"
+	],
+"correctAnswer":3,
+"hints":[
+	"He was a Spanish painter who spent most of his life in France",
+	"Leonardo da Vinci was an Italian painter",
+	"Hans Memling was a German painter",
+	"Raffaello was an Italian painter"
+	]
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The brightly colored, 22-inch-high canvas, painted on Dec. 4 in the same year as masterpieces such as \"Guernica\" and \"The Weeping Woman\", was a head and shoulders study of Picasso\'s mistress and muse, Marie-Thérèse Walter, whom he had met in Paris 10 years earlier.\nBy 1937, Ms. Walter had given birth to Picasso\'s daughter Maya, and was competing for the artist\'s attention with Dora Maar, the model for \"Weeping Woman\".\nUnusually, \"Femme au Béret\" had never appeared on the market before, having been acquired by the owner directly from the artist\'s estate, according to the Sotheby\'s catalog. It was guaranteed to sell, courtesy of a third-party \"irrevocable bid\". It attracted at least three telephone bidders and one in the room. \nPicasso is currently living up to his reputation as the most bankable of modern artists.\nAt this same Sotheby\'s sale, Harry Smith, executive chairman and managing director of the London-based art advisers Gurr Johns, bought the evening\'s three other Picassos on behalf of a client."
+}

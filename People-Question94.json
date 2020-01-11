@@ -1,0 +1,20 @@
+﻿{
+"app":"Visual Quiz",
+"question":"What is the name of this famous cartoon?",
+"answers":[
+	"Family Guy",
+	"The Simpsons",
+	"South Park",
+	"The Flintstones"
+	],
+"correctAnswer":2,
+"hints":[
+	"American animated sitcom created by Matt Groening for the Fox Broadcasting Company",
+	"This is a family, which consists of Homer, Marge, Bart, Lisa and Maggie"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The Simpsons is an American animated sitcom created by Matt Groening for the Fox Broadcasting Company. The series is a satirical depiction of working-class life, epitomized by the Simpson family, which consists of Homer, Marge, Bart, Lisa, and Maggie.\nThe show is set in the fictional town of Springfield and parodies American culture and society, television, and the human condition.\nThis series was actually the first cartoon on TV with adult content. The main character, Homer Simpson, constantly gets caught up in uncomfortable circumstances. Modern life is exhibited and even the explicit aspects are showcased. "
+}

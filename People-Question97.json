@@ -1,0 +1,21 @@
+﻿{
+"app":"Visual Quiz",
+"question":"What is the name of this food?",
+"answers":[
+	"Tostadas",
+	"Pozole",
+	"Elote",
+	"Chilaquiles"
+	],
+"correctAnswer":4,
+"hints":[
+	"This is a traditional mexican breakfast dish features lightly fried corn tortillas",
+	"Pozole is a traditional soup or stew",
+	"In Central America and Mexico, an ear of corn, on or off the plant, is called Elote"
+	]
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"This popular traditional breakfast dish features lightly fried corn tortillas cut into quarters and topped with green or red salsa (the red is slightly spicier). Scrambled or fried eggs and pulled chicken are usually added on top, as well as cheese and cream. Chilaquiles are often served with a healthy dose of frijoles (refried beans).\nUsually, chilaquiles are eaten at breakfast or brunch."
+}
