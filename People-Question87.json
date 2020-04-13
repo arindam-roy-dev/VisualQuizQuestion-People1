@@ -1,0 +1,22 @@
+﻿{
+"app":"Visual Quiz",
+"question":"What type of Glass it is?",
+"answers":[
+	"Goldstone",
+	"Stained Glass",
+	"Acrylic Glass",
+	"Tiffany glass"
+	],
+"correctAnswer":1,
+"hints":[
+	"It is a glittering glass made in a low-oxygen reducing atmosphere",
+	"Acrylic Glass is a plastic polymer material alternative to glass",
+	"Tiffany glass refers to the many and varied types of glass developed and produced from 1878 to 1933 at the Tiffany Studios in New York",
+	"The term stained glass can refer to coloured glass as a material or to works created from it"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Goldstone is a type of glittering glass made in a low-oxygen reducing atmosphere.\nA reducing atmosphere is an atmospheric condition in which oxidation is prevented by removal of oxygen and other oxidizing gases or vapours, and which may contain actively reducing gases such as hydrogen, carbon monoxide, and gases such as hydrogen sulfide that would be oxidized by any present oxygen.\nThe finished product can take a smooth polish and be carved into beads, figurines, or other artifacts suitable for semiprecious stone, and in fact goldstone is often mistaken for or misrepresented as a natural material.\nOne original manufacturing process for goldstone was invented in seventeenth-century Venice by the Miotti family, which was granted an exclusive license by the Doge. Urban legend says goldstone was an accidental discovery by unspecified Italian monks or the product of alchemy, but there is no pre-Miotti documentation to confirm this. A goldstone amulet from 12th- to 13th-century Persia in the collection of the University of Pennsylvania shows that other, earlier artisans were also able to create the material.\nThe most common form of goldstone is reddish-brown, containing tiny crystals of metallic copper that require special conditions to form properly. The initial batch is melted together from silica, copper oxide, and other metal oxides to chemically reduce the copper ions to elemental copper. The vat is then sealed off from the air and maintained within a narrow temperature range, keeping the glass hot enough to remain liquid while allowing metallic crystals to precipitate from solution without melting or oxidizing."
+}

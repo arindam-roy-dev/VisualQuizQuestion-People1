@@ -1,0 +1,22 @@
+﻿{
+"app":"Visual Quiz",
+"question":"What is the name of this animated television series?",
+"answers":[
+	"The Backyardigans",
+	"My Little Pony",
+	"Adventures Of The Gummi Bears",
+	"Pokémon"
+	],
+"correctAnswer":2,
+"hints":[
+	"Main characters are Applejack, Rarity, Fluttershy, Rainbow Dash, Pinkie Pie and others",
+	"The series premiered on October 10, 2010",
+	"Television seriesCreated by Lauren Faust for Hasbro",
+	"The Backyardigans is animated musical children\'s TV series created by Janice Burgess"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":2
+	},
+"aboutAnswer":"My Little Pony: Friendship Is Magic is a Canadian-American animated fantasy television series created by Lauren Faust for Hasbro.\nThe series is based on Hasbro\'s My Little Pony line of toys and animated works and is often referred to by collectors as the fourth generation (also referred to as G4) of the franchise. The series premiered on October 10, 2010, on The Hub (which was renamed as Discovery Family in late 2014), and ended on October 12, 2019.\nHasbro selected animator Lauren Faust as the creative director and executive producer for the show. Faust sought to challenge the established nature of the existing My Little Pony line, creating more in-depth characters and adventurous settings; she left the series during season 2, to be replaced by Meghan McCarthy as showrunner for the remainder of the series.\nThe show follows a studious anthropomorphic unicorn (later an alicorn) pony named Twilight Sparkle as her mentor, Princess Celestia, guides her to learn about friendship in the town of Ponyville. Twilight and her dragon assistant Spike become close friends with five other ponies: Applejack, Rarity, Fluttershy, Rainbow Dash, and Pinkie Pie. Each of the ponies represent a different facet of friendship, and Twilight discovers herself to be a key part of the magical artifacts known as the \"Elements of Harmony\". The ponies travel on adventures and help others around Equestria while working out problems that arise in their own friendships.\nThe series has become a major commercial success, becoming the highest rated original production in Hub Network\'s broadcast history and leading to new merchandising opportunities for Hasbro, including books, clothing, collectible trading cards, and comics."
+}
