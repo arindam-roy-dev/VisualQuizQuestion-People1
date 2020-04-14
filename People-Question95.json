@@ -1,0 +1,20 @@
+﻿{
+"app":"Visual Quiz",
+"question":"What kind of Cap is this?",
+"answers":[
+	"Bicorne",
+	"Busby",
+	"Homburg",
+	"Bearskin"
+	],
+"correctAnswer":4,
+"hints":[
+	"Usually worn as part of a ceremonial military uniform",
+	"Still worn by guard, ceremonial palace or other units in the British, Belgian, Danish, Dutch, Imperial German, Russian and Swedish armies"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"A bearskin is a tall fur cap, usually worn as part of a ceremonial military uniform. Traditionally, the bearskin was the headgear of grenadiers and remains in use by grenadier and guards regiments in various armies.\nThe cloth caps worn by the original grenadiers in European armies during the seventeenth century were frequently trimmed with fur. The practice fell into disuse until the second half of the eighteenth century when grenadiers in the British, Spanish and French armies began wearing high fur hats with cloth tops and, sometimes, ornamental front plates. Imitating their Prussian counterparts, French grenadiers are described as wearing bearskins as early as 1761. The purpose appears to have been to add to the apparent height and impressive appearance of these troops both on the parade ground and the battlefield.\nDuring the nineteenth century, the expense of bearskin caps and difficulty of maintaining them in good condition on active service led to this form of headdress becoming generally limited to guardsmen, bands or other units having a ceremonial role. The British Foot Guards and Royal Scots Greys did however wear bearskins in battle during the Crimean War and on peacetime manoeuvres until the introduction of khaki service dress in 1902.\nImmediately prior to the outbreak of World War I in 1914, bearskins were still worn by guard, ceremonial palace or other units in the British, Belgian, Danish, Dutch, Imperial German, Russian and Swedish armies. The Italian Sardinian Grenadiers had discarded bearskins in the nineteenth century but were to readopt them for limited ceremonial wear in modern times."
+}
