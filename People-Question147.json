@@ -1,0 +1,21 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Which language is this?",
+"answers":[
+	"Malay",
+	"Russian",
+	"French",
+	"Arabic"
+	],
+"correctAnswer":4,
+"hints":[
+	"Fifth most spoken language in the world",
+	"It is the liturgical language of 1.8 billion Muslims",
+	"It is written from right to left"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Arabic is a Semitic language that first emerged in the 1st to 4th centuries CE.\nIt is now the lingua franca of the Arab world. It is named after the Arabs, a term initially used to describe peoples living in the area bounded by Mesopotamia in the east and the Anti-Lebanon mountains in the west, in Northwestern Arabia and in the Sinai Peninsula.\nThe ISO assigns language codes to thirty varieties of Arabic, including its standard form, Modern Standard Arabic, also referred to as Literary Arabic, which is modernized Classical Arabic.\nArabic is widely taught in schools and universities and is used to varying degrees in workplaces, government and the media. Arabic, in its standard form, is the official language of 26 states, as well as the liturgical language of the religion of Islam, since the Quran and Hadith were written in Arabic.\nArabic is the liturgical language of 1.8 billion Muslims, and Arabic is one of six official languages of the United Nations.\nAll varieties of Arabic combined are spoken by perhaps as many as 422 million speakers in the Arab world, making it the fifth most spoken language in the world.\nArabic is written with the Arabic alphabet, which is an abjad script and is written from right to left, although the spoken varieties are sometimes written in ASCII Latin from left to right with no standardized orthography."
+}

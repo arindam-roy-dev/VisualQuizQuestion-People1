@@ -1,0 +1,20 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Which language is this?",
+"answers":[
+	"Hindi",
+	"Nepali",
+	"Bengali",
+	"Arabic"
+	],
+"correctAnswer":1,
+"hints":[
+	"It is a direct descendant of an early form of Vedic Sanskrit",
+	"Indo-Aryan language spoken in India"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Hindi or more precisely Modern Standard Hindi, is an Indo-Aryan language spoken in India.\nModern Hindi is the standardised and Sanskritised register of the Hindustani language, which itself is based primarily on the Khariboli dialect of Delhi and neighbouring areas of Northern India.\nHindi, written in the Devanagari script, is one of the two official languages of the Government of India, along with the English language. It is one of the 22 scheduled languages of the Republic of India.\nHindi is the lingua franca of the Hindi belt and to a lesser extent other parts of India.\nOutside India, several other languages are recognised officially as \"Hindi\" but do not refer to the Standard Hindi language described here and instead descend from other dialects, such as Awadhi and Bhojpuri. Such languages include Fiji Hindi, which is official in Fiji, and Caribbean Hindustani, which is spoken in Trinidad and Tobago, Guyana, and Suriname.\nApart from the script and formal vocabulary, spoken Hindi is mutually intelligible with standard Urdu, another recognised register of Hindustani as both share a common colloquial base.\nAs a linguistic variety, Hindi is the fourth most-spoken first language in the world, after Mandarin, Spanish and English. Hindi alongside Urdu as Hindustani is the third most-spoken language in the world, after Mandarin and English."
+}

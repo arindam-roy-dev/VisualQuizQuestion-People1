@@ -1,0 +1,21 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Which language is this?",
+"answers":[
+	"English",
+	"French",
+	"Spanish",
+	"German"
+	],
+"correctAnswer":2,
+"hints":[
+	"It is 18th most natively spoken language in the world",
+	"German is 11th most natively spoken language in the world",
+	"It is spoken as a first language in France, Quebec, Ontario and New Brunswick etc"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"French is a Romance language of the Indo-European family. It descended from the Vulgar Latin of the Roman Empire, as did all Romance languages.\nFrench evolved from Gallo-Romance, the Latin spoken in Gaul, and more specifically in Northern Gaul. Its closest relatives are the other langues d\'oïl—languages historically spoken in northern France and in southern Belgium, which French (Francien) largely supplanted.\nFrench was also influenced by native Celtic languages of Northern Roman Gaul like Gallia Belgica and by the (Germanic) Frankish language of the post-Roman Frankish invaders.\nToday, owing to France\'s past overseas expansion, there are numerous French-based creole languages, most notably Haitian Creole. A French-speaking person or nation may be referred to as Francophone in both English and French.\nFrench is an official language in 29 countries across multiple continents, most of which are members of the Organisation internationale de la Francophonie (OIF), the community of 84 countries which share the official use or teaching of French.\nIt is spoken as a first language in France, the Canadian provinces of Quebec, Ontario and New Brunswick as well as other Francophone regions, Belgium (Wallonia and the Brussels-Capital Region), western Switzerland (cantons of Bern, Fribourg, Geneva, Jura, Neuchâtel, Vaud, Valais), Monaco, partly in Luxembourg, the states of Louisiana, Maine, New Hampshire and Vermont in the United States, and in northwestern Italy (region of Aosta Valley), and by various communities elsewhere.\nFrench is also the 18th most natively spoken language in the world, 6th most spoken language by total number of speakers and the second or third most studied language worldwide (with about 120 million current learners)."
+}

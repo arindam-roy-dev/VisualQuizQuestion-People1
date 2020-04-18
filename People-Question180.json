@@ -1,0 +1,22 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Which language is this?",
+"answers":[
+	"Portuguese",
+	"Italian",
+	"Spanish",
+	"Japanese"
+	],
+"correctAnswer":1,
+"hints":[
+	"It is 6th most natively spoken language in the world",
+	"Italian is 23rd most natively spoken language in the world",
+	"Japanese is 9th most natively spoken language in the world",
+	"Spanish is 2nd most natively spoken language in the world"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Portuguese is a Western Romance language originating in the Iberian Peninsula. It is the sole official language of Portugal, Brazil, Cape Verde, Guinea-Bissau, Mozambique, Angola and São Tomé and Príncipe.\nIt also has co-official language status in East Timor, Equatorial Guinea and Chinese Macau. A Portuguese-speaking person or nation is referred to as \"Lusophone\" (Lusófono).\nAs the result of expansion during colonial times, a cultural presence of Portuguese and Portuguese creole speakers are also found around the world.\nPortuguese is part of the Ibero-Romance group that evolved from several dialects of Vulgar Latin in the medieval Kingdom of Galicia and the County of Portugal, and has kept some Celtic phonology and lexicon.\nWith approximately 215 to 220 million native speakers and 250 million total speakers, Portuguese is usually listed as the sixth most natively spoken language in the world, and the most spoken language in the Southern Hemisphere.\nIt is also the second-most spoken language, after Spanish, in South America and all of Latin America, one of the 10 most spoken languages in Africa and is an official language of the European Union, Mercosur, OAS, ECOWAS and the African Union. The Community of Portuguese Language Countries is an international organization made up of all of the world\'s officially Lusophone nations."
+}
