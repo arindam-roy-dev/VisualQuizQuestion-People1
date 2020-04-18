@@ -1,0 +1,20 @@
+﻿{
+"app":"Visual Quiz",
+"question":"In Germany, car drivers drives on which side?",
+"answers":[
+	"Left-hand side of the road",
+	"Right-hand side of the road",
+	"Both sides",
+	"None of the above"
+	],
+"correctAnswer":2,
+"hints":[
+	"It is similar to Brazil",
+	"It is similar to United Arab Emirates (UAE)",
+	"It is similar to Mexico"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Most former British colonies, with some exceptions, drive on the left side of the road, whereas the United States of America, Latin American countries and European countries drive on the right.\nAlmost always, in countries where one drives on the right-hand side of the road, the cars are built so that the driver sits on the left-hand side of the car. Conversely, driving on the left-hand side of the road usually implies that the driver\’s seat is on the right-hand side of the car.\nGermany, like the rest of continental Europe, drives on the right-hand side.\nIn Europe, only the British Isles and Gibraltar drive on the left-hand side."
