@@ -1,0 +1,20 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Which Festival is this?",
+"answers":[
+	"Carnival, Brazil",
+	"Mardi Gras, Spain",
+	"La Tomatina, Spain",
+	"Saint Patrick\'s Day, Ireland"
+	],
+"correctAnswer":3,
+"hints":[
+	"It is of throwing tomatoes and get involved in a tomato fight purely for entertainment purposes",
+	"Held in the Valencian town of Buñol, in the East of Spain"
+	],
+"earn":{
+	"hints":5,
+	"hideAnswers":5
+	},
+"aboutAnswer":"La Tomatina is a festival that is held in the Valencian town of Buñol, in the East of Spain 30 kilometres (19 mi) from the Mediterranean, in which participants throw tomatoes and get involved in a tomato fight purely for entertainment purposes.\nSince 1945 it has been held on the last Wednesday of August, during a week of festivities in Buñol.\nThe La Tomatina Festival started the last Wednesday of August in 1945 when some young people spent the time in the town square to attend the Giants and Big-Heads figures parade. The young boys decided to take part in a parade with musicians, Giants and Big-Heads figures. The energy of jovialities caused one participant\'s Big-head to fall off. The participant flew into a fit of rage, began hitting everything in his path. There was a market stall of vegetable that fell victim to the fury of the crowd. People started to pelt each other with tomatoes until the local forces ended that fruit battle.\nThe following year, some young people engaged in a pre-planned quarrel and brought their own tomatoes from home. Although the police broke it up, this began the yearly tradition. In the following years, the young boys\' example had unwittingly made history.\nLa Tomatina was banned in the early 50s, however this did not stop the participants who were arrested. But the people protested the prohibition and the festivity was again allowed with more participants and increased passions.\nThe festivity was again cancelled till 1957 when, as a sign of protest, the tomato burial was held. It was a demonstration in which the residents carried a coffin with a huge tomato inside. The parade was accompanied by a music band which played funeral marches. The protest was successful. La Tomatina Festival was finally permitted and became an official festival.\nUsually, the fight lasts for about one hour, after which the town square is covered with tomato debris. Fire trucks then hose down the streets and participants often use hoses that locals provide to remove the tomatoes from their bodies. Some participants go to the \"Los Peñones\" pool to wash. The citric acid in the tomatoes leads to the washed surfaces in the town becoming very clean."
+}
