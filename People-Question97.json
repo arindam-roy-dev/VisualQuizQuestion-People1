@@ -1,0 +1,22 @@
+﻿{
+"app":"Visual Quiz",
+"question":"What is name of this ethnic group living in the West Africa?",
+"answers":[
+	"Akan",
+	"Hausa",
+	"Han",
+	"Abzakhs"
+	],
+"correctAnswer":1,
+"hints":[
+	"This are living in the southern regions of present day Ghana, formerly known as the Gold Coast",
+	"Abzakh are the second largest Adyghe tribe in Turkey, other diaspora countries",
+	"Hausa are the largest ethnic group in Africa",
+	"Han people are an East Asian ethnic group"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The Akan is a meta-ethnicity living in the southern regions of present-day Ghana, formerly known as the Gold Coast. Akans who migrated from Ghana also make up a plurality of the ethnic population in Ivory Coast.\nThe Akan language (also known as Twi/Fante) is a group of dialects within the Central Tano branch of the Potou–Tano subfamily of the Niger–Congo family.\nAkan culture can also be found in the Americas, where several Akans were taken as captives. Roughly ten percent of all slave ships which embarked from the Gold Coast contained Akan people.\nThe primary source of wealth in the Akan economy was gold. However, the capture and sale of Akan people peaked during the Fante and Ashanti conflicts (as both sides sold many of their captives as prisoners of war).\nAkan conflicts led to a high number of military captives, known as \"Coromantee\", being sold into slavery. The Coromantee soldiers and other Akan captives were notorious for various slave revolts and plantation resistance tactics. These captives were feared throughout America.\nTheir legacy is evident within groups such as the Maroons of the Caribbean and South America."
+}

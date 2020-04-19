@@ -1,0 +1,22 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Which type of Shoe is this?",
+"answers":[
+	"Bast shoe",
+	"Cantabrian albarcas",
+	"Slingback",
+	"Galesh"
+	],
+"correctAnswer":1,
+"hints":[
+	"Obsolete traditional footwear of Northern Europe",
+	"Worn by poorer members of the Finnic peoples, Balts, Russians and Belarussians",
+	"Galesh is a traditional footwear of Iran",
+	"Cantabrian albarcas was used particularly by the peasants of Cantabria, northern Spain"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":2
+	},
+"aboutAnswer":"Bast shoes are shoes made primarily from bast, fiber taken from the bark of trees such as linden or birch.\nThey are a kind of basket, woven and fitted to the shape of a foot. Bast shoes are an obsolete traditional footwear of the forest areas of Northern Europe, formerly worn by poorer members of the Finnic peoples, Balts, Russians and Belarussians. They were easy to manufacture, but not durable.\nBast shoes have been worn since prehistoric times. Wooden foot shaped blocks (lasts) for shaping them have been found in neolithic excavations, e.g. 4900 years old.\nBast shoes were still worn in the Russian countryside at the beginning of the twentieth century.\nToday bast shoes are sold as souvenirs and sometimes worn by ethnographic music or dance troupes as part of their costume."
+}

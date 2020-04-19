@@ -1,0 +1,22 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Which type of Shoe is this?",
+"answers":[
+	"Galesh",
+	"Geta",
+	"Opanci",
+	"Tsarouhi"
+	],
+"correctAnswer":2,
+"hints":[
+	"Traditional Japanese footwear",
+	"Tsarouchi is a traditional uniform worn by the Evzones of the Greek Presidential Guard",
+	"Galesh is a traditional footwear of Iran",
+	"Opanci are traditional peasant shoes worn in Southeastern Europe"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Geta (下駄) are a form of traditional Japanese footwear that resemble clogs and flip-flops. They are a kind of sandal with an elevated wooden base held onto the foot with a fabric thong to keep the foot well above the ground.\nGeta are primarily worn with yukata, but sometimes also with Western clothing during the summer months. As geta are usually worn only with yukata or other informal Japanese clothes or Western clothes, there is no need to wear socks.\nSometimes geta are worn in rain to keep the feet dry, due to their extra height and impermeability compared to other footwear such as zōri. They make a similar noise to flip-flops slapping against the heel whilst walking. When worn on water or dirt, flip-flops may flip dirt or water up the back of the legs. This does not tend to happen with the heavier Japanese geta.\nGeta are not normally worn in snow, because snow often gets stuck to the teeth of the geta, making it difficult to walk. However, in historical times, they were worn in the snow."
+}

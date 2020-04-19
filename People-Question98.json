@@ -1,0 +1,20 @@
+﻿{
+"app":"Visual Quiz",
+"question":"What is the name of this Movie?",
+"answers":[
+	"Tangled",
+	"Moana",
+	"The Princess and the Frog",
+	"Frozen II"
+	],
+"correctAnswer":4,
+"hints":[
+	"2019 American 3D computer-animated musical fantasy film",
+	"the film received a nomination for Best Original Song for \"Into the Unknown\""
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Frozen II, also known as Frozen 2, is a 2019 American 3D computer-animated musical fantasy film produced by Walt Disney Animation Studios.\nThe 58th animated film produced by the studio, it is the sequel to the 2013 film Frozen and features the return of directors Chris Buck and Jennifer Lee, producer Peter Del Vecho, songwriters Kristen Anderson-Lopez and Robert Lopez, and composer Christophe Beck. Lee also returns as screenwriter, penning the screenplay from a story by her, Buck, Marc E. Smith, Anderson-Lopez, and Lopez, while Byron Howard executive-produced the film.\nVeteran voice cast Kristen Bell, Idina Menzel, Josh Gad, Jonathan Groff, and Ciarán Hinds return as their previous characters, and they are joined by newcomers Sterling K. Brown, Evan Rachel Wood, Alfred Molina, Martha Plimpton, Jason Ritter, Rachel Matthews, and Jeremy Sisto.\nSet three years after the events of the first film, the story follows Elsa, Anna, Kristoff, Olaf, and Sven, who embark on a journey beyond their kingdom of Arendelle in order to discover the origin of Elsa\'s magical powers and save their kingdom after a mysterious voice calls out to Elsa.\nFrozen II had its world premiere at the Dolby Theatre in Hollywood on November 7, 2019, and was released in the United States by Walt Disney Studios Motion Pictures on November 22, 2019. It had the highest all-time worldwide opening for an animated film and went on to gross $1.45 billion worldwide, making it the third highest-grossing film of 2019, the second highest-grossing animated film of all time and the 10th highest-grossing film of all time.\nThe film received generally positive reviews from critics, winning two Annie Awards for Outstanding Achievement for Animated Effects in an Animated Production and Outstanding Achievement for Voice Acting in an Animated Feature Production and a Visual Effects Society Award for Outstanding Effects Simulations in an Animated Feature.\nAt the 92nd Academy Awards, the film received a nomination for Best Original Song for \"Into the Unknown\"."
+}

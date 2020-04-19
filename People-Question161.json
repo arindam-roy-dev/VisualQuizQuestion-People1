@@ -1,0 +1,22 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Which type of Shoe is this?",
+"answers":[
+	"Slippers",
+	"Wellington boot",
+	"Slingback",
+	"Mary Jane"
+	],
+"correctAnswer":4,
+"hints":[
+	"Mary Janes for children are typically made of black leather or patent leather",
+	"Slingbacks can be considered a type of sandal",
+	"Wellington boot was originally a type of leather boot",
+	"Slippers are intended to be worn indoors, particularly at home"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Mary Jane (also known as bar shoes or \"doll shoes\") is an American term for a closed, low-cut shoe with one or more straps across the instep.\nClassic Mary Janes for children are typically made of black leather or patent leather, have one thin strap fastened with a buckle or button, a broad and rounded toebox, low heels, and thin outsoles.\nAmong girls, Mary Janes are traditionally worn with pantyhose or socks or completely without them, and a dress or a skirt and blouse. Among boys (less common), Mary Janes are traditionally worn with socks (or without them as well), short trousers and a shirt.\nChildren\'s shoes secured by a strap over the instep and fastened with a buckle or button appeared in the early 20th century. Originally worn by both sexes, they began to be perceived as being mostly for girls during the 1930s in North America and the 1940s in Europe. They were also popular with women in the 1920s."
+}

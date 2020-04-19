@@ -1,0 +1,19 @@
+﻿{
+"app":"Visual Quiz",
+"question":"What is the name of this Movie?",
+"answers":[
+	"Shrek",
+	"Kung Fu Panda",
+	"Monsters, Inc",
+	"Tarzan"
+	],
+"correctAnswer":1,
+"hints":[
+	"2001 American comedy film"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Shrek is a 2001 American computer-animated comedy film loosely based on the 1990 fairytale picture book of the same name by William Steig.\nDirected by Andrew Adamson and Vicky Jenson in their directorial debuts, it stars Mike Myers, Eddie Murphy, Cameron Diaz and John Lithgow as the voices of the lead characters.\nIn the story, an ogre called Shrek (Myers) finds his swamp overrun by fairy tale creatures who have been banished by the corrupt Lord Farquaad (Lithgow) aspiring to be king. Shrek makes a deal with Farquaad to regain control of his swamp in return for rescuing Princess Fiona (Diaz), whom Farquaad intends to marry. With the help of Donkey (Murphy), Shrek embarks on his quest but soon falls in love with the princess, who is hiding a secret that will change his life forever.\nThe rights to Steig\'s book were purchased by Steven Spielberg in 1991. He originally planned to produce a traditionally-animated film based on the book, but John H. Williams convinced him to bring the film to the newly-founded DreamWorks in 1994. Jeffrey Katzenberg began active development of the film in 1995 immediately following the studio\'s purchase of the rights from Spielberg.\nShrek premiered at the 2001 Cannes Film Festival, where it competed for the Palme d\'Or, making it the first animated film since Disney's Peter Pan (1953) to receive that honor.\nIt was widely praised as an animated film that featured adult-oriented humor and themes, while catering to children at the same time. The film was theatrically released in the United States on May 18, 2001, and grossed $484.4 million worldwide against production budget of $60 million.\nShrek won the first ever Academy Award for Best Animated Feature and was also nominated for Best Adapted Screenplay. It also earned six award nominations from the British Academy of Film and Television Arts (BAFTA), ultimately winning Best Adapted Screenplay."
+}

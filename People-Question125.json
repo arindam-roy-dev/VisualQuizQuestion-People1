@@ -1,0 +1,20 @@
+﻿{
+"app":"Visual Quiz",
+"question":"What is the name of this Movie?",
+"answers":[
+	"Shrek",
+	"Tangled",
+	"Toy Story",
+	"Frozen"
+	],
+"correctAnswer":2,
+"hints":[
+	"2010 American musical adventure film",
+	"Loosely based on the German fairy tale \"Rapunzel\""
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Tangled is a 2010 American 3D computer-animated musical adventure film produced by Walt Disney Animation Studios and released by Walt Disney Pictures.\nLoosely based on the German fairy tale \"Rapunzel\" in the collection of folk tales published by the Brothers Grimm, it is the 50th Disney animated feature film. Featuring the voices of Mandy Moore, Zachary Levi and Donna Murphy, the film tells the story of a lost, young princess with magical long blonde hair who yearns to leave her secluded tower. Against her mother\'s wishes, she accepts the aid of an intruder to take her out into the world which she has never seen.\nBefore the film\'s release, its title was changed from Rapunzel to Tangled, reportedly to market the film gender-neutrally.\nTangled spent six years in production at a cost that has been estimated at $260 million, which, if accurate, would make it the most expensive animated film ever made and one of the most expensive films of all time.\nThe film employed a unique artistic style by blending together features of computer-generated imagery (CGI) and traditional animation while using non-photorealistic rendering to create the impression of a painting.\nComposer Alan Menken, who had worked on prior Disney animated features, returned to score Tangled.\nTangled premiered at the El Capitan Theatre on November 14, 2010, and went into general release on November 24. The film earned $592 million in worldwide box office revenue, $200 million of which was earned in the United States and Canada.\nThe film was nominated for a number of awards, including Best Original Song at the 83rd Academy Awards. The film was released on Blu-ray and DVD on March 29, 2011; a short film, Tangled Ever After, was released later in 2012 and a television series premiered in 2017."
+}

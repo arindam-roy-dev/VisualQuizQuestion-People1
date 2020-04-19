@@ -1,0 +1,21 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Which type of Shoe is this?",
+"answers":[
+	"Brogan shoe",
+	"Boat shoe",
+	"Ballet shoes",
+	"Climbing shoe"
+	],
+"correctAnswer":3,
+"hints":[
+	"They are lightweight and usually made from soft leather, canvas or satin",
+	"Brogan shoes were adopted over time by various countries for their military forces",
+	"Designed specifically for ballet dancing"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"A ballet shoe, or ballet slipper, is a lightweight shoe designed specifically for ballet dancing.\nIt may be made from soft leather, canvas, or satin, and has flexible, thin soles.\nTraditionally, women wear pink shoes and men wear white or black shoes. Tan colored slippers which are unobtrusive and thus give the appearance of dancing barefoot are worn in modern ballets and sometimes modern dancing by both men and women.\nTypically, in a ballet class, male dancers wear ballet slippers throughout the class whereas female dancers wear ballet slippers at the beginning and then may change into pointe shoes.\nBallet shoes traditionally have a leather sole which does not reach all the way to the edges of the shoe. A modern development is the split sole, which provides greater flexibility and emphasizes the shape of the foot when pointed.\nThey are usually made from soft leather, canvas or satin. Leather shoes are long-lasting. Canvas shoes are less expensive but wear faster than average leather ballet shoes. Satin shoes are often used for performances but can wear out very quickly.\nShoes are secured with the use of elastic, most often with a single band across the arch of the foot, or with two bands that cross in an \"X\" shape at the top of the arch.\nIn the case of double band shoes, some ballet slipper manufacturers will attach one end of each band to the shoe as part of the production process, and leave it to the purchaser to attach the free ends of the bands for optimal fit."
+}
