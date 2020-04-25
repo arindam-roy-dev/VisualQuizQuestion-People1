@@ -1,0 +1,22 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Who is the Author of novel \"War and Peace\"?",
+"answers":[
+	"Gustav Flaubert",
+	"Leo Tolstoy",
+	"William Shakespeare",
+	"Charles Dickens"
+	],
+"correctAnswer":2,
+"hints":[
+	"He was a Russian writer who is one of the greatest authors of all time",
+	"He is best known for the novels War and Peace (1869) and Anna Karenina (1877)",
+	"Gustave Flaubert was a French novelist",
+	"Charles John Huffam Dickens was an English writer"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"War and Peace is a novel by the Russian author Leo Tolstoy, published serially, then in its entirety in 1869. It is regarded as one of Tolstoy\'s finest literary achievements and remains a classic of world literature.\nThe novel chronicles the French invasion of Russia and the impact of the Napoleonic era on Tsarist society through the stories of five Russian aristocratic families. Portions of an earlier version, titled The Year 1805, were serialized in The Russian Messenger from 1865 to 1867, then published in its entirety in 1869.\nTolstoy said War and Peace is \"not a novel, even less is it a poem, and still less a historical chronicle.\" Large sections, especially the later chapters, are philosophical discussion rather than narrative.\nTolstoy also said that the best Russian literature does not conform to standards and hence hesitated to call War and Peace a novel. Instead, he regarded Anna Karenina as his first true novel.\nLeo Tolstoy was a Russian writer who is regarded as one of the greatest authors of all time. He received multiple nominations for the Nobel Prize in Literature every year from 1902 to 1906, and nominations for Nobel Peace Prize in 1901, 1902 and 1910, and the fact that he never won is a major Nobel prize controversy.\nBorn to an aristocratic Russian family in 1828, he is best known for the novels War and Peace (1869) and Anna Karenina (1877), often cited as pinnacles of realist fiction.\nHe first achieved literary acclaim in his twenties with his semi-autobiographical trilogy, Childhood, Boyhood, and Youth (1852–1856), and Sevastopol Sketches (1855), based upon his experiences in the Crimean War. Tolstoy\'s fiction includes dozens of short stories and several novellas such as The Death of Ivan Ilyich (1886), Family Happiness (1859), and Hadji Murad (1912). He also wrote plays and numerous philosophical essays."
+}

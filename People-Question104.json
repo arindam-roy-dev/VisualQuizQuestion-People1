@@ -1,0 +1,20 @@
+﻿{
+"app":"Visual Quiz",
+"question":"This is a visual representation of what?",
+"answers":[
+	"Scientific Notation",
+	"Egyptian Hieroglyphs",
+	"Musical Notation",
+	"Mathematical Notation"
+	],
+"correctAnswer":3,
+"hints":[
+	"Pitches are indicated by placing oval noteheads",
+	"The duration (note length) is shown with different note values"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Music notation or musical notation is any system used to visually represent aurally perceived music played with instruments or sung by the human voice through the use of written, printed, or otherwise-produced symbols, including notation for durations of absence of sound such as rests.\nModern music notation is used by musicians of many different genres throughout the world. The staff acts as a framework upon which pitches are indicated by placing oval noteheads on the staff lines or between the lines. The pitch of the oval musical noteheads can be modified by accidentals.\nThe duration (note length) is shown with different note values, which can be indicated by the notehead being a stemless hollow oval (a whole note or semibreve), a hollow rectangle or stemless hollow oval with one or two vertical lines on either side (double whole note or breve), a stemmed hollow oval (a half note or minim), or solid oval using stems to indicate quarter notes (crotchets) and stems with added flags or beams to indicate smaller subdivisions, and additional symbols such as dots and ties which lengthen the duration of a note.\nNotation is read from left to right, which makes setting music for right-to-left scripts difficult."
+}

@@ -1,0 +1,19 @@
+﻿{
+"app":"Visual Quiz",
+"question":"What kind of entertainment it is?",
+"answers":[
+	"Magic Show",
+	"Opera Show",
+	"Circus",
+	"Comedy Show"
+	],
+"correctAnswer":1,
+"hints":[
+	"It is a performing art in which audiences are entertained by tricks or illusions of seemingly impossible naturally"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Magic, which encompasses the subgenres of illusion, stage magic, and close up magic, is a performing art in which audiences are entertained by tricks or illusions of seemingly impossible feats using natural means. It is one of the oldest performing arts in the world.\nModern entertainment magic, as pioneered by 19th-century magician Jean Eugène Robert-Houdin, has become a popular theatrical art form.\nIn the late 19th and early 20th centuries, magicians such as Maskelyne and Devant, Howard Thurston, Harry Kellar, and Harry Houdini achieved widespread commercial success during what has become known as \"the Golden Age of Magic\".\nDuring this period, performance magic became a staple of Broadway theatre, vaudeville, and music halls. Magic retained its popularity in the television age, with magicians such as David Copperfield, Doug Henning, Penn & Teller, David Blaine, and Derren Brown modernizing the art form."
+}

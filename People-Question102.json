@@ -1,0 +1,20 @@
+﻿{
+"app":"Visual Quiz",
+"question":"What kind of entertainment it is?",
+"answers":[
+	"Opera Show",
+	"Magic Show",
+	"Comedy Show",
+	"Circus"
+	],
+"correctAnswer":4,
+"hints":[
+	"It has followed various formats through its 250-year modern history",
+	"It includes clowns, acrobats, trained animals, trapeze acts, hoopers, tightrope walkers, jugglers, unicyclists etc."
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"A circus is a company of performers who put on diverse entertainment shows that may include clowns, acrobats, trained animals, trapeze acts, musicians, dancers, hoopers, tightrope walkers, jugglers, magicians, unicyclists, as well as other object manipulation and stunt-oriented artists.\nThe term circus also describes the performance which has followed various formats through its 250-year modern history. Although not the inventor of the medium, Philip Astley is credited as the father of the modern circus.\nIn 1768 Astley, a skilled equestrian, began performing exhibitions of trick horse riding in an open field called Ha\'Penny Hatch on the south side of the Thames River. In 1770 he hired acrobats, tightrope walkers, jugglers and a clown to fill in the pauses between the equestrian demonstrations and thus chanced on the format which was later named a \"circus\".\nPerformances developed significantly over the next fifty years, with large-scale theatrical battle reenactments becoming a significant feature. The traditional format, in which a ringmaster introduces a variety of choreographed acts set to music, developed in the latter part of the 19th century and remained the dominant format until the 1970s."
+}
