@@ -1,0 +1,23 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Which one is an Arabian Dish?",
+"answers":[
+	"Kushari",
+	"Risotto",
+	"Kabsa",
+	"Guacamole"
+	],
+"correctAnswer":3,
+"hints":[
+	"National dish in many Arab states of the Persian Gulf",
+	"These dishes are usually made with rice, meat, vegetables, and a mixture of spices",
+	"Guacamole is an avocado-based dip, spread, or salad first developed in Mexico",
+	"Kushari is Egypt\'s national dish and a widely popular street food",
+	"Risotto is a northern Italian rice dish cooked with broth until it reaches a creamy consistency"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Kabsa is a mixed rice dish that originates from Saudi Arabia but is commonly regarded as a national dish in many Arab states of the Persian Gulf.\nThe dish is made with rice and meat. It can often be found served in countries such as Saudi Arabia, Kuwait, Bahrain, Qatar, the United Arab Emirates, Oman, Yemen and in the Negev desert in Israel.\nThese dishes are usually made with rice (usually long-grain, almost always basmati), meat, vegetables, and a mixture of spices. There are many kinds of kabsa and each kind has a uniqueness about it.\nPre-mixed kabsa spices are now available under several brand names. These reduce preparation time, but may have a flavor distinct from traditional kabsa.\nThe spices used in kabsa are largely responsible for its taste; these are generally black pepper, cloves, cardamom, saffron, cinnamon, black lime, bay leaves and nutmeg.\nThe main ingredient that accompanies the spices is the meat. The meats used are usually chicken, goat, lamb, camel, beef, fish or shrimp. In chicken machbūs, a whole chicken is used.\nThe spices, rice and meat may be augmented with almonds, pine nuts, peanuts, onions and sultanas. The dish can be garnished with ḥashū and served hot with daqqūs, which is a home-made Arabic tomato sauce.\nMeat for kabsa can be cooked in various ways. A popular way of preparing meat is called mandi. This is an ancient technique that originates in Yemen, whereby meat is barbecued in a deep hole in the ground that is covered while the meat cooks. Another way of preparing and serving meat for kabsa is mathbi, where seasoned meat is grilled on flat stones that are placed on top of burning embers. A third technique, madghūt, involves cooking the meat in a pressure cooker."
+}
