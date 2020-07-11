@@ -1,0 +1,21 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Who is this famous singer?",
+"answers":[
+	"Adele",
+	"Madonna",
+	"Jennifer Lopez",
+	"Rihanna"
+	],
+"correctAnswer":4,
+"hints":[
+	"She earned her first Grammy Award for Best Rap/Sung Collaboration for her single \"Umbrella\"",
+	"Barbadian singer, moved to the United States in 2005",
+	"She is famous for \"Rude Boy\", \"Only Girl (In the World)\", \"What\'s My Name?\", \"S&M\", \"We Found Love\", \"Diamonds\", and \"Stay\" and other singles"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Robyn Rihanna Fenty (born February 20, 1988) is a Barbadian singer, songwriter, actress, and businesswoman. She is best known for her fashion and style and her genre fusion in her music.\nBorn in Saint Michael and raised in Bridgetown, Barbados, Rihanna moved to the United States in 2005 when she signed with Def Jam. She gained recognition following the release of her first two studio albums, Music of the Sun (2005) and A Girl like Me (2006), both of which were influenced by Caribbean music and peaked within the top ten of the US Billboard 200 chart.\nRihanna\'s third album, Good Girl Gone Bad (2007), incorporated elements of dance-pop, catapulted her to stardom, and established her status as a sex symbol in the music industry. Its international chart-topping single \"Umbrella\" earned Rihanna her first Grammy Award for Best Rap/Sung Collaboration. Rihanna continued to mix pop, dance, and R&B genres on her next four albums, Rated R (2009), Loud (2010), Talk That Talk (2011), and the Grammy Award-winning Unapologetic (2012). All four releases combined various other musical styles and consolidated Rihanna\'s commercial success, with Unapologetic being her first number-one album in the US chart-topping singles, including \"Rude Boy\", \"Only Girl (In the World)\", \"What\'s My Name?\", \"S&M\", \"We Found Love\", \"Diamonds\", and \"Stay\".\nHer eighth album, Anti (2016), showcased a new creative control following her departure from Def Jam. It became her second US number-one album and featured the chart-topping single \"Work\". Rihanna has released collaborative hit singles with artists such as Drake, Eminem, and Calvin Harris.\nHaving sold over 250 million records, Rihanna is one of the world\'s best-selling music artists. She has 14 number-ones and 31 top-ten singles in the US and 30 top-ten entries in the UK.\nHer accolades include nine Grammy Awards, 13 American Music Awards, 12 Billboard Music Awards, and six Guinness World Records. Forbes ranked her among the top ten highest-paid celebrities in 2012 and 2014; as of 2019, she is the wealthiest female musician, with an estimated net worth of $600 million. Time named her as one of the 100 most influential people in the world in 2012 and 2018.\nAside from music, Rihanna is known for her involvement in humanitarian causes, entrepreneurial ventures, and the fashion industry. She is the founder of the nonprofit organization Clara Lionel Foundation, cosmetics brand Fenty Beauty, and fashion house Fenty under LVMH. She was appointed as an ambassador of education, tourism, and investment by the Government of Barbados in 2018."
+}

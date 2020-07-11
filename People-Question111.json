@@ -1,0 +1,22 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Which of the following languages is native to Israel?",
+"answers":[
+	"Arabic",
+	"Hebrew",
+	"Amharic",
+	"Greek"
+	],
+"correctAnswer":2,
+"hints":[
+	"Hebrew ceased to be an everyday spoken language somewhere between 200 and 400 CE",
+	"It is the only Canaanite language still spoken and the only truly successful example of a revived dead language",
+	"Amharic is one of the Ethiopian Semitic languages",
+	"Greek is an independent branch of the Indo-European family of languages, native to Greece, Cyprus, Albania and other parts of the Eastern Mediterranean and the Black Sea"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":2
+	},
+"aboutAnswer":"Hebrew is a Northwest Semitic language native to Israel. In 2013, Modern Hebrew was spoken by over nine million people worldwide.\nHistorically, it is regarded as the language of the Israelites and their ancestors, although the language was not referred to by the name \"Hebrew\" in the Tanakh itself. The earliest examples of written Paleo-Hebrew date from the 10th century BCE. Hebrew belongs to the West Semitic branch of the Afroasiatic language family.\nHebrew is the only Canaanite language still spoken and the only truly successful example of a revived dead language.\nHebrew ceased to be an everyday spoken language somewhere between 200 and 400 CE, declining since the aftermath of the Bar Kokhba revolt.\nAramaic and, to a lesser extent, Greek were already in use as international languages, especially among elites and immigrants. Hebrew survived into the medieval period as the language of Jewish liturgy, rabbinic literature, intra-Jewish commerce and poetry.\nWith the rise of Zionism in the 19th century, it was revived as a spoken and literary language, becoming the main language of the Yishuv and subsequently of the State of Israel.\nAccording to Ethnologue, in 1998, Hebrew was the language of five million people worldwide. After Israel, the United States has the second-largest Hebrew-speaking population, with about 220,000 fluent speakers, mostly from Israel.\nModern Hebrew is the official language of the State of Israel, while premodern Hebrew is used for prayer or study in Jewish communities around the world today. The Samaritan dialect is also the liturgical tongue of the Samaritans, while modern Hebrew or Arabic is their vernacular.\nAs a foreign language, it is studied mostly by Jews and students of Judaism and Israel and by archaeologists and linguists specializing in the Middle East and its civilizations, as well as by theologians in Christian seminaries."
+}
