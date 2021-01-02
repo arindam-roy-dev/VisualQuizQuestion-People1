@@ -1,0 +1,20 @@
+﻿{
+"app":"Visual Quiz",
+"question":"What activity was going on?",
+"answers":[
+	"Fishing",
+	"Scuba Diving",
+	"Underwater Photography",
+	"Pearl hunting"
+	],
+"correctAnswer":4,
+"hints":[
+	"This activity used to be prevalent in the Persian Gulf region and Japan",
+	"They were often forced to descend to depths of over 100 feet on a single breath, exposing them to the dangers of hostile creatures, waves, eye damage, and drowning"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Pearl hunting, also known as pearling, is the activity of recovering pearls from wild molluscs, usually oysters or mussels, in the sea or freshwater.\nPearl hunting used to be prevalent in the Persian Gulf region and Japan. Pearl diving began in the 1850s on the northern and north-western coast of Australia, and started in the Torres Strait, off Far North Queensland in the 1870s.\nIn most cases the pearl-bearing molluscs live at depths where they are not manually accessible from the surface, and diving or the use of some form of tool is needed to reach them.\nHistorically the molluscs were retrieved by freediving, a technique where the diver descends to the bottom, collects what they can, and surfaces on a single breath.\nThe diving mask improved the ability of the diver to see while underwater. When the surface-supplied diving helmet became available for underwater work, it was also applied to the task of pearl hunting, and the associated activity of collecting pearl shell as a raw material for the manufacture of buttons, inlays and other decorative work.\nThe surface supplied diving helmet greatly extended the time the diver could stay at depth, and introduced the previously unfamiliar hazards of barotrauma of ascent and decompression sickness.\nBefore the beginning of the 20th century, the only means of obtaining pearls was by manually gathering very large numbers of pearl oysters or mussels from the ocean floor or lake or river bottom.\nThe bivalves were then brought to the surface, opened, and the tissues searched. More than a ton were searched in order to find at least 3-4 quality beds.\nIn order to find enough pearl oysters, free-divers were often forced to descend to depths of over 100 feet on a single breath, exposing them to the dangers of hostile creatures, waves, eye damage, and drowning, often as a result of shallow water blackout on resurfacing.\nBecause of the difficulty of diving and the unpredictable nature of natural pearl growth in pearl oysters, pearls of the time were extremely rare and of varying quality."
+}

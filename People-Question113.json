@@ -1,0 +1,21 @@
+﻿{
+"app":"Visual Quiz",
+"question":"This is the traditional dress for which ethnic group?",
+"answers":[
+	"Yakuts (Russia)",
+	"Japanese",
+	"Indian",
+	"Hawaiian"
+	],
+"correctAnswer":1,
+"hints":[
+	"They are also known as Sakha",
+	"They originally lived around Olkhon and the region of Lake Baikal",
+	"Their language belongs to the Siberian branch of the Turkic languages"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The Yakuts, or the Sakha, are a Turkic ethnic group who mainly live in the Republic of Sakha in the Russian Federation, with some extending to the Amur, Magadan, Sakhalin regions, and the Taymyr and Evenk Autonomous Districts.\nThe Yakut language belongs to the Siberian branch of the Turkic languages. The Russian word yakut was taken from Evenk yokō. The Yakuts call themselves sakha or urangai sakha in some old chronicles.\nThe Yakuts engage in animal husbandry, traditionally having focused on rearing horses, mainly the Yakutian horse, reindeer and the Sakha Ynagha (Yakutian cow), a hardy kind of cattle known as Yakutian cattle which is well-adapted to the harsh local weather.\nThe ancestors of Yakuts were Kurykans who migrated from Yenisey river to Lake Baikal and were subject to a certain Mongolian admixture prior to migration in the 7th century.\nThe Yakuts originally lived around Olkhon and the region of Lake Baikal. Beginning in the 13th century they migrated to the basins of the Middle Lena, the Aldan and Vilyuy rivers under the pressure of the rising Mongols.\nThe northern Yakuts were largely hunters, fishermen and reindeer herders, while the southern Yakuts raised cattle and horses.\nAccording to the 2010 census, some 87% of the Yakuts in the Sakha Republic are fluent in the Yakut (or Sakha) language, while 90% are fluent in Russian."
+}
