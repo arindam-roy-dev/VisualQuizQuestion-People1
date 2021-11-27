@@ -1,0 +1,21 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Which song\'s music video is this?",
+"answers":[
+	"It\'s Now Or Never",
+	"Beat It",
+	"Please Forgive Me",
+	"Sacrifice"
+	],
+"correctAnswer":4,
+"hints":[
+	"Singer\'s name is Elton John",
+	"\"Beat It\" is a song by American singer Michael Jackson",
+	"\"Please Forgive Me\" is a song by Canadian rock musician Bryan Adams"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"\"Sacrifice\" is a ballad by English musician Elton John. The song was written by John and his collaborator, Bernie Taupin.\nThe song appears on the 1989 album Sleeping with the Past. It was first released in October 1989 as the second single from the album.\nIt achieved success in 1990, particularly in France and the United Kingdom, becoming John\'s first solo chart-topper in both nations.\n\"Sacrifice\" was initially released as a single in 1989, but stalled at number 55 in the UK and at number 18 in the US in March 1990.\nIn mid-1990 English DJ Steve Wright began playing the song on BBC Radio 1, soon followed by many more radio DJs. The song was then re-released as a double A-side single, along with \"Healing Hands\", and reached number one in the UK in June 1990. Thus, it became John\'s first solo number-one single in the UK Singles Chart, remaining on the top spot for five weeks.\nWith this re-release, Elton John also got his first number one in France and stayed on the chart for 26 weeks."
+}

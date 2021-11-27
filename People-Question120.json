@@ -1,0 +1,21 @@
+﻿{
+"app":"Visual Quiz",
+"question":"what is the name of this film director?",
+"answers":[
+	"Stanley Kubrick",
+	"Steven Spielberg",
+	"Francis Ford Coppola",
+	"Alfred Hitchcock"
+	],
+"correctAnswer":2,
+"hints":[
+	"He directed the holocaust drama film Schindler\'s List",
+	"He directed the World War II epic Saving Private Ryan",
+	"He directed back to back box office successes with the acclaimed science fiction action film Jurassic Park"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Steven Allan Spielberg (born December 18, 1946) is an American film director, producer, and screenwriter. He began his career in the New Hollywood era and is currently the most commercially successful director.\nSpielberg is the recipient of various accolades, including three Academy Awards (with two for Best Director), a Kennedy Center honor, a Cecil B. DeMille Award, and an AFI Life Achievement Award.\nHe directed back to back box office successes with the acclaimed science fiction action film Jurassic Park and the holocaust drama Schindler\'s List (both 1993).\nIn 1998, he directed the World War II epic Saving Private Ryan, which was both a critical and commercial success.\nSpielberg continued in the 2000s with science fiction, including A.I. Artificial Intelligence (2001), Minority Report (2002) and War of the Worlds (2005).\nHe has since directed several fantasy films including The Adventures of Tintin (2011), and Ready Player One (2018), and the historical dramas War Horse (2011), Lincoln (2012), and The Post (2017).\nIn addition to filmmaking, he co-founded Amblin Entertainment and DreamWorks, and has served as a producer for many television series and films. Spielberg is also known for his long time collaboration with composer John Williams, with whom he has worked for all but five of his feature films.\nSeveral of Spielberg\'s works are among the highest-grossing films of all time and have received acclaim; seven of his films have been inducted into the National Film Registry by the Library of Congress as being \"culturally, historically, or aesthetically significant\"."
+}
